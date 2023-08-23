@@ -1,0 +1,4638 @@
+[
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "ACUERDO_MARCO/2022/3",
+    "descripcion": "ACUERDO MARCO PARA LA CONTRATACION DE ACCIONES FORMATIVAS ESPECIFICAS DIRIGIDAS A PERSONAS USUARIAS  DE LOS PROGRAMAS DEL AREA DE SERVICIOS SOCIALES DEL AYUNTAMIENTO DE PAMPLONA",
+    "licitadores": [
+      {
+        "dnilic": "G83496000",
+        "nombrelic": "FUNDACION KOINEAEQUALITAS PARA LA CALIDAD Y DESARROLLO SOCIAL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "84337.00",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\16166403.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\16548789.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\16930252.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN FINAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17004532.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_ASISTENCIA/2015/83",
+    "descripcion": "SERVICIOS ENERGETICOS Y CONSERVACIÓN Y MANTENIMIENTO DE LOS EDIFICIOS Y ASCENSORES DE TITULARIDAD O GESTIÓN MUNICIPAL",
+    "licitadores": [
+      {
+        "dnilic": "U71068167",
+        "nombrelic": "EULEN SA ONDEMAND FACILITIES SL UTE"
+      },
+      {
+        "dnilic": "U71301105",
+        "nombrelic": "ONDEMAND FACILITIES SL Y EULEN SA UTE L18/82"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "U71301105",
+        "nombreadj": "ONDEMAND FACILITIES SL Y EULEN SA UTE L18/82"
+      }
+    ],
+    "implic": "7571880.00",
+    "impofer": "6485109.14",
+    "varialicofer": "-14.35",
+    "observacionesoferta": "",
+    "impadj": "27970478.33",
+    "imppagos": "",
+    "plazoejec": "472",
+    "modificaciones": {
+      "fechamodif": [
+        "2020-12-04T00:00:00",
+        "2020-12-04T00:00:00",
+        "2022-07-04T00:00:00"
+      ],
+      "impmodif": [
+        "-56481,73",
+        "34224,49",
+        "1204626,98"
+      ]
+    },
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\7033926.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\7392382.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\7478207.PDF"
+      },
+      {
+        "descripcion": "ACTA APERTURA ECONOMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\7400287.PDF"
+      },
+      {
+        "descripcion": "ACTA APERTURA ECONOMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\7400289.PDF"
+      },
+      {
+        "descripcion": "ACTA APERTURA ECONOMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\7400291.PDF"
+      },
+      {
+        "descripcion": "ACTA APERTURA ECONOMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\7400292.PDF"
+      },
+      {
+        "descripcion": "ACTA APERTURA ECONOMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\7478249.PDF"
+      },
+      {
+        "descripcion": "ACTA APERTURA ECONOMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\7490505.PDF"
+      },
+      {
+        "descripcion": "ACTA PROPUESTA DE ADJUDICACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\7475234.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_ASISTENCIA/2016/10",
+    "descripcion": "CONTRATO BANDA MUNICIPAL DE PAMPLONA \"LA PAMPLONESA\" 2016 A 2036",
+    "licitadores": [
+      {
+        "dnilic": "G31111768",
+        "nombrelic": "ASOCIACION BANDA DE MUSICA DE PAMPLONA"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "G31111768",
+        "nombreadj": "ASOCIACION BANDA DE MUSICA DE PAMPLONA"
+      },
+      {
+        "dniadj": "G31111768",
+        "nombreadj": "ASOCIACION BANDA DE MUSICA DE PAMPLONA"
+      }
+    ],
+    "implic": "20624832.00",
+    "impofer": "20624832.00",
+    "varialicofer": "0",
+    "observacionesoferta": "",
+    "impadj": "21406492.45",
+    "imppagos": "",
+    "plazoejec": "7300",
+    "modificaciones": {
+      "fechamodif": [
+        "2022-03-23T00:00:00",
+        "2022-03-23T00:00:00",
+        "2022-03-23T00:00:00",
+        "2022-03-23T00:00:00",
+        "2023-01-30T00:00:00"
+      ],
+      "impmodif": [
+        "814181,92",
+        "814181,92",
+        "794141,45",
+        "831191,55",
+        "417685,15"
+      ]
+    },
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\7270554.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\7417608.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\7423744.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_ASISTENCIA/2017/31",
+    "descripcion": "GESTIÓN SERVICIOS SOCIOCULTURALES DE LA RED CIVIVOX Y CENTRO SAN JUAN BOSCO DEL AYUNTAMIENTO Y DEL ACUERDO MARCO PARA LA CONTRATACIÓN DE LA PROGRAMACIÓN DE LOS CURSOS Y ACTIVIDADES A DESARROLLAR EN LA RED CIVIVOX Y CENTRO SAN JUAN BOSCO. (LOTE 1)",
+    "licitadores": [
+      {
+        "dnilic": "B31235492",
+        "nombrelic": "SEDENA SL"
+      },
+      {
+        "dnilic": "B31720816",
+        "nombrelic": "KAIZEN-EUREKA SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B31235492",
+        "nombreadj": "SEDENA SL"
+      }
+    ],
+    "implic": "4200000.00",
+    "impofer": "3780000.00",
+    "varialicofer": "-10",
+    "observacionesoferta": "",
+    "impadj": "3307500.00",
+    "imppagos": "",
+    "plazoejec": "365",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\8835546.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\8999440.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA TÉCNICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\9040129.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\9157882.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\9162929.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_ASISTENCIA/2017/31",
+    "descripcion": "GESTIÓN SERVICIOS SOCIOCULTURALES DE LA RED CIVIVOX Y CENTRO SAN JUAN BOSCO DEL AYUNTAMIENTO Y DEL ACUERDO MARCO PARA LA CONTRATACIÓN DE LA PROGRAMACIÓN DE LOS CURSOS Y ACTIVIDADES A DESARROLLAR EN LA RED CIVIVOX Y CENTRO SAN JUAN BOSCO. (LOTE 2)",
+    "licitadores": [
+      {
+        "dnilic": "B31235492",
+        "nombrelic": "SEDENA SL"
+      },
+      {
+        "dnilic": "B31720816",
+        "nombrelic": "KAIZEN-EUREKA SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "2129600.00",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\8835546.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\8999440.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA TÉCNICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\9040129.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\9157882.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\9162929.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_ASISTENCIA/2017/31",
+    "descripcion": "GESTIÓN SERVICIOS SOCIOCULTURALES DE LA RED CIVIVOX Y CENTRO SAN JUAN BOSCO DEL AYUNTAMIENTO Y DEL ACUERDO MARCO PARA LA CONTRATACIÓN DE LA PROGRAMACIÓN DE LOS CURSOS Y ACTIVIDADES A DESARROLLAR EN LA RED CIVIVOX Y CENTRO SAN JUAN BOSCO. (LOTE 3)",
+    "licitadores": [
+      {
+        "dnilic": "B31235492",
+        "nombrelic": "SEDENA SL"
+      },
+      {
+        "dnilic": "B31720816",
+        "nombrelic": "KAIZEN-EUREKA SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "100000.00",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\8835546.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\8999440.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA TÉCNICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\9040129.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\9157882.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\9162929.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_ASISTENCIA/2018/4",
+    "descripcion": " LIMPIEZA CIVIVOX ",
+    "licitadores": [
+      {
+        "dnilic": "B31235492",
+        "nombrelic": "SEDENA SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B31235492",
+        "nombreadj": "SEDENA SL"
+      }
+    ],
+    "implic": "200000.00",
+    "impofer": "182400.00",
+    "varialicofer": "-8.8",
+    "observacionesoferta": "",
+    "impadj": "1454839.00",
+    "imppagos": "",
+    "plazoejec": "180",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\9064550.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\9124276.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\9148317.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\9162867.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\9198094.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_DERIVADO/2022/142",
+    "descripcion": "CONTRATO DERIVADO DEL ACUERDO MARCO COMUNICACIÓN DE “EMPRESAS Y PROFESIONALES QUE REALIZARÁN TRABAJOS DE DISEÑO Y ESTRATEGIA PUBLICITARIA DEL AYUNTAMIENTO AÑO 2022”_CAMPAÑA CREATIVIDAD REGALA PAMPLONA DENTRO DEL PRTR FINANCIADO POR LA UNIÓN EUROPEA_NEXTG",
+    "licitadores": [
+      {
+        "dnilic": "B71381230",
+        "nombrelic": "LA LLORONA COMUNICACION SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "33278.63",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "33728.63",
+    "plazoejec": "0",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "1.35",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_DERIVADO/2022/145",
+    "descripcion": "CONTRATO DERIVADO DEL ACUERDO MARCO COMUNICACIÓN DE “EMPRESAS Y PROFESIONALES QUE REALIZARÁN TRABAJOS DE DISEÑO Y ESTRATEGIA PUBLICITARIA DEL AYUNTAMIENTO AÑO 2022”_PRODUCCIÓN MATERIAL REGALA PAMPLONA DENTRO DEL PRTR FINANCIADO POR LA UNIÓN EUROPEA_NEXTG",
+    "licitadores": [
+      {
+        "dnilic": "B71381230",
+        "nombrelic": "LA LLORONA COMUNICACION SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "35487.78",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "35487.78",
+    "plazoejec": "0",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "0",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_DERIVADO/2022/146",
+    "descripcion": "CONTRATO DERIVADO DEL ACUERDO MARCO COMUNICACIÓN DE “EMPRESAS Y PROFESIONALES QUE REALIZARÁN TRABAJOS DE DISEÑO Y ESTRATEGIA PUBLICITARIA DEL AYUNTAMIENTO AÑO 2022”_CAMPAÑA C.A.OSASUNA REGALA PAMPLONA DENTRO DEL PRTR FINANCIADO POR LA UNIÓN EUROPEA_NEXTG",
+    "licitadores": [
+      {
+        "dnilic": "B71381230",
+        "nombrelic": "LA LLORONA COMUNICACION SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "14304.18",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "14304.18",
+    "plazoejec": "0",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "0",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "tipocontrato not found",
+    "codigo": "CONT_DERIVADO/2022/152",
+    "descripcion": "11º CONTRATO DERIVADO DEL ACUERDO_MARCO/2018/8. - MANTENIMIENTO EJERCICIO 2023 DE LOS APARCAMIENTOS PÚBLICOS PARA BICICLETAS",
+    "licitadores": [
+      {
+        "dnilic": "B01529361",
+        "nombrelic": "INTELLIGENT PARKING S.L"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "tipocontrato not found",
+    "codigo": "CONT_DERIVADO/2022/153",
+    "descripcion": "DISEÑO MARCA PAMPLONA JOVEN",
+    "licitadores": [
+      {
+        "dnilic": "",
+        "nombrelic": ""
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "tipocontrato not found",
+    "codigo": "CONT_DERIVADO/2022/159",
+    "descripcion": "CAMPAÑA PAMPLONA JOVEN",
+    "licitadores": [
+      {
+        "dnilic": "",
+        "nombrelic": ""
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "tipocontrato not found",
+    "codigo": "CONT_DERIVADO/2022/160",
+    "descripcion": "CAMPAÑA III PLAN JOVEN",
+    "licitadores": [
+      {
+        "dnilic": "",
+        "nombrelic": ""
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_DERIVADO/2023/8",
+    "descripcion": "CONTRATO DERIVADO DEL ACUERDO MARCO PARA LA COMPRA DIRECTA DE ESPACIOS EN MEDIOS DE COMUNICACIÓN DE ÁMBITO LOCAL PARA LA INSERCIÓN DE CAMPAÑAS DE PUBLICIDAD INSTITUCIONAL DEL AYUNTAMIENTO DE PAMPLONA-CAMPAÑA COMUNICACIÓN REGALA PAMPLONA NAVIDAD 2022-2023 (LOTE 1: PRENSA ESCRITA)",
+    "licitadores": [
+      {
+        "dnilic": "",
+        "nombrelic": ""
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "10529.66",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "10529.66",
+    "plazoejec": "0",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "0",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_DERIVADO/2023/8",
+    "descripcion": "CONTRATO DERIVADO DEL ACUERDO MARCO PARA LA COMPRA DIRECTA DE ESPACIOS EN MEDIOS DE COMUNICACIÓN DE ÁMBITO LOCAL PARA LA INSERCIÓN DE CAMPAÑAS DE PUBLICIDAD INSTITUCIONAL DEL AYUNTAMIENTO DE PAMPLONA-CAMPAÑA COMUNICACIÓN REGALA PAMPLONA NAVIDAD 2022-2023 (LOTE 2: PUBLICIDAD DIGITAL)",
+    "licitadores": [
+      {
+        "dnilic": "",
+        "nombrelic": ""
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "12100.00",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "12100.00",
+    "plazoejec": "0",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "0",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_DERIVADO/2023/8",
+    "descripcion": "CONTRATO DERIVADO DEL ACUERDO MARCO PARA LA COMPRA DIRECTA DE ESPACIOS EN MEDIOS DE COMUNICACIÓN DE ÁMBITO LOCAL PARA LA INSERCIÓN DE CAMPAÑAS DE PUBLICIDAD INSTITUCIONAL DEL AYUNTAMIENTO DE PAMPLONA-CAMPAÑA COMUNICACIÓN REGALA PAMPLONA NAVIDAD 2022-2023 (LOTE 3: RADIO)",
+    "licitadores": [
+      {
+        "dnilic": "",
+        "nombrelic": ""
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "9692.52",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "9692.53",
+    "plazoejec": "0",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "0",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_DERIVADO/2023/12",
+    "descripcion": "CONTRATO DERIVADO DEL ACUERDO MARCO COMUNICACIÓN DE “EMPRESAS Y PROFESIONALES QUE REALIZARÁN TRABAJOS DE DISEÑO Y ESTRATEGIA PUBLICITARIA DEL AYUNTAMIENTO AÑO 2023”_CAMPAÑA CREATIVIDAD REGALA PAMPLONA DENTRO DEL PRTR FINANCIADO POR LA UNIÓN EUROPEA_NEXTG",
+    "licitadores": [
+      {
+        "dnilic": "B71381230",
+        "nombrelic": "LA LLORONA COMUNICACION SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "726.00",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "726.00",
+    "plazoejec": "0",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "0",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_DERIVADO/2023/14",
+    "descripcion": "ACUERDO MARCO CONT_SERVICIOS/2018/31. APROBACION DE LA PROGRAMACION DE PRIMAVERA 2023 DE LA CASA DE LA JUVENTUD ",
+    "licitadores": [
+      {
+        "dnilic": "B31235492",
+        "nombrelic": "SEDENA SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B31235492",
+        "nombreadj": "SEDENA SL"
+      }
+    ],
+    "implic": "42797.94",
+    "impofer": "42797.94",
+    "varialicofer": "0",
+    "observacionesoferta": "",
+    "impadj": "42797.94",
+    "imppagos": "",
+    "plazoejec": "90",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_DERIVADO/2023/23",
+    "descripcion": "PAGO VIGILANCIAS EXPOSICIONES CIUDADELA_ENERO_ CONT_SERVICIOS/2019/7",
+    "licitadores": [
+      {
+        "dnilic": "B31516404",
+        "nombrelic": "GLOBAL SERVICIOS CULTURALES SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B31516404",
+        "nombreadj": "GLOBAL SERVICIOS CULTURALES SL"
+      }
+    ],
+    "implic": "3639.68",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "3639.68",
+    "imppagos": "",
+    "plazoejec": "30",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_DERIVADO/2023/27",
+    "descripcion": "MONTAJES, VIGILANCIAS Y TRANSPORTES EXPOS CIUDADELA CONT_SERVICIOS/2019/7",
+    "licitadores": [
+      {
+        "dnilic": "B31516404",
+        "nombrelic": "GLOBAL SERVICIOS CULTURALES SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B31516404",
+        "nombreadj": "GLOBAL SERVICIOS CULTURALES SL"
+      }
+    ],
+    "implic": "20859.11",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "20958.11",
+    "imppagos": "",
+    "plazoejec": "30",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_DERIVADO/2023/28",
+    "descripcion": "CONTRATO DERIVADO DEL ACUERDO MARCO COMUNICACIÓN DE “EMPRESAS Y PROFESIONALES QUE REALIZARÁN TRABAJOS DE DISEÑO Y ESTRATEGIA PUBLICITARIA DEL AYUNTAMIENTO AÑO 2022”_EMBELLECIMIENTO LOCALES VACÍOS EN PRTR FINANCIADO POR LA UNIÓN EUROPEA NEXTGENERATIONEU",
+    "licitadores": [
+      {
+        "dnilic": "B71381230",
+        "nombrelic": "LA LLORONA COMUNICACION SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "12801.80",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "12801.80",
+    "plazoejec": "0",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "0",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_DERIVADO/2023/35",
+    "descripcion": "VIGILANCIAS FEBRERO 2023 CONT_SERVICIOS/2019/7",
+    "licitadores": [
+      {
+        "dnilic": "B31516404",
+        "nombrelic": "GLOBAL SERVICIOS CULTURALES SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B31516404",
+        "nombreadj": "GLOBAL SERVICIOS CULTURALES SL"
+      }
+    ],
+    "implic": "7243.83",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "7243.83",
+    "imppagos": "",
+    "plazoejec": "30",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_DERIVADO/2023/37",
+    "descripcion": "CONTRATO DERIVADO DEL ACUERDO MARCO COMUNICACIÓN DE “EMPRESAS Y PROFESIONALES QUE REALIZARÁN LOS TRABAJOS DE DISEÑO Y ESTRATEGIA PUBLICITARIA DEL AYUNTAMIENTO”_OBLIGACIONES DE COMUNICACIÓN MERCADOS MUNICIPALES DENTRO DEL PRTR FINANCIADO POR LA UNIÓN EURO",
+    "licitadores": [
+      {
+        "dnilic": "B71381230",
+        "nombrelic": "LA LLORONA COMUNICACION SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "6121.39",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "6121.39",
+    "plazoejec": "0",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "0",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_DERIVADO/2023/38",
+    "descripcion": "VIGILANCIAS Y COORDINACION EXPOSICIONES CIUDADELA CONT_SERVICIOS/2019/7",
+    "licitadores": [
+      {
+        "dnilic": "B31516404",
+        "nombrelic": "GLOBAL SERVICIOS CULTURALES SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B31516404",
+        "nombreadj": "GLOBAL SERVICIOS CULTURALES SL"
+      }
+    ],
+    "implic": "1713.36",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "1713.36",
+    "imppagos": "",
+    "plazoejec": "30",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_DERIVADO/2023/42",
+    "descripcion": "VIGILANCIAS EXPOSICIONES CIUDADELA FEBRERO CONT_SERVICIOS_2019_7",
+    "licitadores": [
+      {
+        "dnilic": "B31516404",
+        "nombrelic": "GLOBAL SERVICIOS CULTURALES SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B31516404",
+        "nombreadj": "GLOBAL SERVICIOS CULTURALES SL"
+      }
+    ],
+    "implic": "4929.54",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "4929.54",
+    "imppagos": "",
+    "plazoejec": "30",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "tipocontrato not found",
+    "codigo": "CONT_DERIVADO/2023/54",
+    "descripcion": "BICIESCUELA PARA ADULTOS MAYO 2023. 8º CONTRATO DERIVADO DEL LOTE 2 DEL “ACUERDO MARCO PARA LA SELECCIÓN DE EMPRESAS QUE IMPARTAN ACTIVIDADES FORMATIVAS EN EL ÁMBITO DE LA BICICLETA” (ACUERDO_MARCO/2019/2).",
+    "licitadores": [
+      {
+        "dnilic": "G71018386",
+        "nombrelic": "CLUB DEPORTIVO BIO XTREME SPORT"
+      },
+      {
+        "dnilic": "F71344857",
+        "nombrelic": "IRUZIKLO SOCIEDAD COOPERATIVA DE INICIATIVA SOCIAL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "920.00",
+    "plazoejec": "0",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_DERIVADO/2023/56",
+    "descripcion": "PAGO MONTAJES, DESMONTAJES, VIGILANCIAS, PRODUCCION Y COORDINACION EXPOSICIONES CIUDADELA_CONT_SERVICIOS/2019/7",
+    "licitadores": [
+      {
+        "dnilic": "B31516404",
+        "nombrelic": "GLOBAL SERVICIOS CULTURALES SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B31516404",
+        "nombreadj": "GLOBAL SERVICIOS CULTURALES SL"
+      }
+    ],
+    "implic": "17760.05",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "17760.05",
+    "imppagos": "",
+    "plazoejec": "30",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_DERIVADO/2023/63",
+    "descripcion": "ACUERDO MARCO CONT_SERVICIOS/2018/31. APROBACION DE LA PROGRAMACION DE VERANO 2023 DE LA CASA DE LA JUVENTUD ",
+    "licitadores": [
+      {
+        "dnilic": "B31235492",
+        "nombrelic": "SEDENA SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B31235492",
+        "nombreadj": "SEDENA SL"
+      }
+    ],
+    "implic": "7078.50",
+    "impofer": "7078.50",
+    "varialicofer": "0",
+    "observacionesoferta": "",
+    "impadj": "7078.50",
+    "imppagos": "",
+    "plazoejec": "60",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_DERIVADO/2023/72",
+    "descripcion": "PAGO VIGILANCIAS EXPOSICIONES DE ABRIL 2023 ",
+    "licitadores": [
+      {
+        "dnilic": "B31516404",
+        "nombrelic": "GLOBAL SERVICIOS CULTURALES SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B31516404",
+        "nombreadj": "GLOBAL SERVICIOS CULTURALES SL"
+      }
+    ],
+    "implic": "7279.36",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "7279.36",
+    "imppagos": "",
+    "plazoejec": "30",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_DERIVADO/2023/75",
+    "descripcion": "PAGO MONTAJES, DESMONTAJES, PRODUCCIONES, COORDINACIONES Y VIGILANCIAS MAYO 2023_CONT-SERVICIOS/2019/7",
+    "licitadores": [
+      {
+        "dnilic": "B31516404",
+        "nombrelic": "GLOBAL SERVICIOS CULTURALES SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B31516404",
+        "nombreadj": "GLOBAL SERVICIOS CULTURALES SL"
+      }
+    ],
+    "implic": "21250.35",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "21250.35",
+    "imppagos": "",
+    "plazoejec": "30",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_DERIVADO/2023/88",
+    "descripcion": "MONTAJES, DESMONTAJES, VIGILANCIAS MAYO EXPOSICIONES CIUDADELA CONT_SERVICIOS/2019/7",
+    "licitadores": [
+      {
+        "dnilic": "B31516404",
+        "nombrelic": "GLOBAL SERVICIOS CULTURALES SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B31516404",
+        "nombreadj": "GLOBAL SERVICIOS CULTURALES SL"
+      }
+    ],
+    "implic": "10512.52",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "8688.23",
+    "imppagos": "",
+    "plazoejec": "30",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_DERIVADO/2023/97",
+    "descripcion": "MONTAJES, DESMONTAJES, VIGILANCIAS JUNIO EXPOSICIONES CIUDADELA CONT_SERVICIOS/2019/7",
+    "licitadores": [
+      {
+        "dnilic": "B31516404",
+        "nombrelic": "GLOBAL SERVICIOS CULTURALES SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B31516404",
+        "nombreadj": "GLOBAL SERVICIOS CULTURALES SL"
+      }
+    ],
+    "implic": "14423.81",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "11920.50",
+    "imppagos": "",
+    "plazoejec": "30",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Obras",
+    "codigo": "CONT_OBRA/2022/10",
+    "descripcion": "OBRAS PARA 5 APARCAMIENTOS DISUASORIOS - PROYECTO CON FINANCIACIÓN DE SUBVENCIONES EUROPEAS \"NEXT GENERATION\". (TRINITARIOS 1)",
+    "licitadores": [
+      {
+        "dnilic": "B31231319",
+        "nombrelic": "EXCAVACIONES FERMIN OSES SL"
+      },
+      {
+        "dnilic": "A31893340",
+        "nombrelic": "CONSTRUCCIONES BORESTE, S.A."
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "259000.56",
+    "impofer": "240274.82",
+    "varialicofer": "-7.23",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15338106.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15604534.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15760269.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15760317.PDF"
+      },
+      {
+        "descripcion": "ACTA PROPUESTA DE ADJUDICACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15760366.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Obras",
+    "codigo": "CONT_OBRA/2022/10",
+    "descripcion": "OBRAS PARA 5 APARCAMIENTOS DISUASORIOS - PROYECTO CON FINANCIACIÓN DE SUBVENCIONES EUROPEAS \"NEXT GENERATION\". (TRINITARIOS 2)",
+    "licitadores": [
+      {
+        "dnilic": "B31231319",
+        "nombrelic": "EXCAVACIONES FERMIN OSES SL"
+      },
+      {
+        "dnilic": "A31893340",
+        "nombrelic": "CONSTRUCCIONES BORESTE, S.A."
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "233609.06",
+    "impofer": "216719.13",
+    "varialicofer": "-7.23",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15338106.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15604534.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15760269.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15760317.PDF"
+      },
+      {
+        "descripcion": "ACTA PROPUESTA DE ADJUDICACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15760366.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Obras",
+    "codigo": "CONT_OBRA/2022/10",
+    "descripcion": "OBRAS PARA 5 APARCAMIENTOS DISUASORIOS - PROYECTO CON FINANCIACIÓN DE SUBVENCIONES EUROPEAS \"NEXT GENERATION\". (ARROSADIA)",
+    "licitadores": [
+      {
+        "dnilic": "B31231319",
+        "nombrelic": "EXCAVACIONES FERMIN OSES SL"
+      },
+      {
+        "dnilic": "A31893340",
+        "nombrelic": "CONSTRUCCIONES BORESTE, S.A."
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "220428.51",
+    "impofer": "217893.58",
+    "varialicofer": "-1.15",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15338106.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15604534.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15760269.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15760317.PDF"
+      },
+      {
+        "descripcion": "ACTA PROPUESTA DE ADJUDICACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15760366.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Obras",
+    "codigo": "CONT_OBRA/2022/10",
+    "descripcion": "OBRAS PARA 5 APARCAMIENTOS DISUASORIOS - PROYECTO CON FINANCIACIÓN DE SUBVENCIONES EUROPEAS \"NEXT GENERATION\". (SAN JORGE)",
+    "licitadores": [
+      {
+        "dnilic": "B31231319",
+        "nombrelic": "EXCAVACIONES FERMIN OSES SL"
+      },
+      {
+        "dnilic": "A31893340",
+        "nombrelic": "CONSTRUCCIONES BORESTE, S.A."
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "137043.40",
+    "impofer": "136906.36",
+    "varialicofer": "-0.1",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15338106.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15604534.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15760269.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15760317.PDF"
+      },
+      {
+        "descripcion": "ACTA PROPUESTA DE ADJUDICACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15760366.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Obras",
+    "codigo": "CONT_OBRA/2022/10",
+    "descripcion": "OBRAS PARA 5 APARCAMIENTOS DISUASORIOS - PROYECTO CON FINANCIACIÓN DE SUBVENCIONES EUROPEAS \"NEXT GENERATION\". (MENDEBALDEA)",
+    "licitadores": [
+      {
+        "dnilic": "B31231319",
+        "nombrelic": "EXCAVACIONES FERMIN OSES SL"
+      },
+      {
+        "dnilic": "A31893340",
+        "nombrelic": "CONSTRUCCIONES BORESTE, S.A."
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "216454.78",
+    "impofer": "210523.92",
+    "varialicofer": "-2.74",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15338106.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15604534.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15760269.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15760317.PDF"
+      },
+      {
+        "descripcion": "ACTA PROPUESTA DE ADJUDICACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15760366.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Obras",
+    "codigo": "CONT_OBRA/2022/20",
+    "descripcion": "ADECUACIÓN DE LOCAL COMO APARCAMIENTO-CONSIGNA EN CASCO HISTÓRICO EN CALLE MAYOR Nº 14, EN EL MARCO DEL PLAN DE RECUPERACIÓN, TRANSFORMACIÓN Y RESILIENCIA, FINANCIADO POR LA UNIÓN EUROPEA – NEXT GENERARTION EU",
+    "licitadores": [
+      {
+        "dnilic": "B71136915",
+        "nombrelic": "UG ESTUDIO PAMPLONA, S.L."
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B71136915",
+        "nombreadj": "UG ESTUDIO PAMPLONA, S.L."
+      }
+    ],
+    "implic": "130026.36",
+    "impofer": "127425.83",
+    "varialicofer": "-2",
+    "observacionesoferta": "",
+    "impadj": "127425.83",
+    "imppagos": "",
+    "plazoejec": "90",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\16812820.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17734716.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Obras",
+    "codigo": "CONT_OBRA/2022/21",
+    "descripcion": "OBRA DE LA 2ª FASE DE URBANIZACIÓN DEL AREA DE REPARTO ARS-4 DE LA U.I.XIX DEL PLAN MUNICIPAL DE PAMPLONA",
+    "licitadores": [
+      {
+        "dnilic": "A31083009",
+        "nombrelic": "OBRAS ESPECIALES EDIFICACION E INFRAESTRUCTURAS S.A.U"
+      },
+      {
+        "dnilic": "B31196033",
+        "nombrelic": "CONSTRUCCIONES ECAY SL"
+      },
+      {
+        "dnilic": "B31083199",
+        "nombrelic": "CONSTRUCCIONES MARIEZCURRENA, S.L."
+      },
+      {
+        "dnilic": "B31455983",
+        "nombrelic": "LACUNZA HERMANOS  S.L."
+      },
+      {
+        "dnilic": "15840922V",
+        "nombrelic": "ERRO MENDIOROZ, JOSE ANGEL"
+      },
+      {
+        "dnilic": "B31231319",
+        "nombrelic": "EXCAVACIONES FERMIN OSES SL"
+      },
+      {
+        "dnilic": "B31826688",
+        "nombrelic": "MKRINGENIERIA ARQUITECTURA S L"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "1348141.25",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\16832153.PDF",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Obras",
+    "codigo": "CONT_OBRA/2022/22",
+    "descripcion": "REFORMA DE LAS VIVIENDAS DEL GRUPO SAN PEDRO Nº 11 Y 12 PARA DESTINARLAS A APARTAMENTOS TUTELADOS - OPENLAB",
+    "licitadores": [
+      {
+        "dnilic": "B31197528",
+        "nombrelic": "CONSLAU SL"
+      },
+      {
+        "dnilic": "B31226434",
+        "nombrelic": "CONSTRUCCIONES DIAZ GARCIA SL"
+      },
+      {
+        "dnilic": "B31615628",
+        "nombrelic": "CONSTRUCCIONES JOSE MIGUEL IBAÑEZ SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B31615628",
+        "nombreadj": "CONSTRUCCIONES JOSE MIGUEL IBAÑEZ SL"
+      }
+    ],
+    "implic": "2330413.15",
+    "impofer": "2097371.83",
+    "varialicofer": "-10",
+    "observacionesoferta": "",
+    "impadj": "2097371.83",
+    "imppagos": "42292.42",
+    "plazoejec": "420",
+    "modificaciones": "",
+    "variaoferpago": "-10",
+    "varialicpago": "-98.19",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17085588.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17622040.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17622067.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17622118.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "tipocontrato not found",
+    "codigo": "CONT_OBRA/2022/23",
+    "descripcion": "ESTACIONAMIENTO SUBTERRÁNEO Y URBANIZACIÓN SUPERFICIAL - CALLE SANGÜESA Y PLAZA DE LA CRUZ",
+    "licitadores": [
+      {
+        "dnilic": "15631655G",
+        "nombrelic": "IBAÑEZ ARANGUREN, TERESA"
+      },
+      {
+        "dnilic": "15672632H",
+        "nombrelic": "MARTINEZ LERENDEGUI, ALFONSO"
+      },
+      {
+        "dnilic": "A31118441",
+        "nombrelic": "SERVICIOS DE LA COMARCA DE PAMPLONA S.A."
+      },
+      {
+        "dnilic": "72639219K",
+        "nombrelic": "ORRIO IRAIZOZ, MARIA CONCEPCION"
+      },
+      {
+        "dnilic": "15525190Y",
+        "nombrelic": "EZA SUBIZA, MARIA PILAR"
+      },
+      {
+        "dnilic": "29138412B",
+        "nombrelic": "GARCIA EZA, NATALIA"
+      },
+      {
+        "dnilic": "Q3175002I",
+        "nombrelic": "COLEGIO OFICIAL DE APAREJADORES Y ARQUITECTOS DE NAVARR"
+      },
+      {
+        "dnilic": "S3100015A",
+        "nombrelic": "DEPARTAMENTO DE CULTURA Y DEPORTE"
+      },
+      {
+        "dnilic": "B31231319",
+        "nombrelic": "EXCAVACIONES FERMIN OSES SL"
+      },
+      {
+        "dnilic": "G31970916",
+        "nombrelic": "AGRUPACIÓN DE GARAJES DE AVDA GALICIA"
+      },
+      {
+        "dnilic": "P3112070B",
+        "nombrelic": "MANCOMUNIDAD DE LA COMARCA DE PAMPLONA"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "",
+    "impofer": "2579330.38",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17950088.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA TÉCNICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17950089.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17950090.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17950091.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Obras",
+    "codigo": "CONT_OBRA/2022/24",
+    "descripcion": "OBRAS DE LA SEGUNDA FASE DEL PARQUE CAMINO DE SANTIAGO (SISTEMA GENERAL ADSCRITO GSA-2 DE LAS ARS-1 Y ARS-3 DE LA U.I.V DEL PLAN MUNICIPAL DE PAMPLONA)",
+    "licitadores": [
+      {
+        "dnilic": "A31083009",
+        "nombrelic": "OBRAS ESPECIALES EDIFICACION E INFRAESTRUCTURAS S.A.U"
+      },
+      {
+        "dnilic": "B31083199",
+        "nombrelic": "CONSTRUCCIONES MARIEZCURRENA, S.L."
+      },
+      {
+        "dnilic": "B31455983",
+        "nombrelic": "LACUNZA HERMANOS  S.L."
+      },
+      {
+        "dnilic": "B31231319",
+        "nombrelic": "EXCAVACIONES FERMIN OSES SL"
+      },
+      {
+        "dnilic": "20208247X",
+        "nombrelic": "COBO GARCIA, CARLOS"
+      },
+      {
+        "dnilic": "B71431696",
+        "nombrelic": "ALÍNEA INGENIERÍA Y TERRITORIO, S.L."
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "2820884.25",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\16770841.PDF",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Obras",
+    "codigo": "CONT_OBRA/2023/1",
+    "descripcion": "INSTALACIÓN FOTOVOLTAICA DE AUTOCONSUMO EN EL POLIDEPORTIVO ARROSADÍA",
+    "licitadores": [
+      {
+        "dnilic": "B67522110",
+        "nombrelic": "SOLIDEO ECO SYSTEMS, SOCIEDAD LIMITADA"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B67522110",
+        "nombreadj": "SOLIDEO ECO SYSTEMS, SOCIEDAD LIMITADA"
+      }
+    ],
+    "implic": "93325.54",
+    "impofer": "77567.52",
+    "varialicofer": "-16.89",
+    "observacionesoferta": "",
+    "impadj": "77567.52",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17781764.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA Nº 1",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\18174506.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Obras",
+    "codigo": "CONT_OBRA/2023/2",
+    "descripcion": "SUSTITUCIÓN DE CARPINTERÍAS EXTERIORES EN C.P. AZPILAGAÑA, C.P.E.I.P. NICASIO LANDA Y C.P. SAN FRANCISCO (2 LOTES) (LOTE 1 (CARPINTERÍA METÁLICA))",
+    "licitadores": [
+      {
+        "dnilic": "B31144975",
+        "nombrelic": "CARPINTERIA GARCIANDIA SL"
+      },
+      {
+        "dnilic": "A31514037",
+        "nombrelic": "CARPINTERIA Y DISEÑO MAÑERU SAL"
+      },
+      {
+        "dnilic": "B31640857",
+        "nombrelic": "CARPINTERIA HNOS AZPIROZ SL"
+      },
+      {
+        "dnilic": "B31844137",
+        "nombrelic": "AGUASER SUMINISTROS Y SERVICIOS SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "384204.96",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17617119.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17957424.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA TÉCNICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17957448.PDF"
+      },
+      {
+        "descripcion": "ACTA N.º 3",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17957563.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Obras",
+    "codigo": "CONT_OBRA/2023/2",
+    "descripcion": "SUSTITUCIÓN DE CARPINTERÍAS EXTERIORES EN C.P. AZPILAGAÑA, C.P.E.I.P. NICASIO LANDA Y C.P. SAN FRANCISCO (2 LOTES) (LOTE 2 (CARPINTERÍA MADERA))",
+    "licitadores": [
+      {
+        "dnilic": "B31144975",
+        "nombrelic": "CARPINTERIA GARCIANDIA SL"
+      },
+      {
+        "dnilic": "A31514037",
+        "nombrelic": "CARPINTERIA Y DISEÑO MAÑERU SAL"
+      },
+      {
+        "dnilic": "B31640857",
+        "nombrelic": "CARPINTERIA HNOS AZPIROZ SL"
+      },
+      {
+        "dnilic": "B31844137",
+        "nombrelic": "AGUASER SUMINISTROS Y SERVICIOS SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "107768.46",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17617119.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17957424.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA TÉCNICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17957448.PDF"
+      },
+      {
+        "descripcion": "ACTA N.º 3",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17957563.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Obras",
+    "codigo": "CONT_OBRA/2023/3",
+    "descripcion": "FUENTE DEL HIERRO VERDE (ZONAS 2 Y 3 DE LA 1ª FASE), EN EL MARCO DEL PLAN DE RECUPERACIÓN, TRANSFORMACIÓN Y RESILIENCIA FINANCIADO POR LA UNION EUROPEA-NEXT GENERATION EU",
+    "licitadores": [
+      {
+        "dnilic": "B31455983",
+        "nombrelic": "LACUNZA HERMANOS  S.L."
+      },
+      {
+        "dnilic": "P3112070B",
+        "nombrelic": "MANCOMUNIDAD DE LA COMARCA DE PAMPLONA"
+      },
+      {
+        "dnilic": "B31826688",
+        "nombrelic": "MKRINGENIERIA ARQUITECTURA S L"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B31455983",
+        "nombreadj": "LACUNZA HERMANOS  S.L."
+      }
+    ],
+    "implic": "281849.99",
+    "impofer": "281848.93",
+    "varialicofer": "0",
+    "observacionesoferta": "",
+    "impadj": "281848.93",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17651893.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17936574.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Obras",
+    "codigo": "CONT_OBRA/2023/4",
+    "descripcion": "REMODELACIÓN DE LA ESCUELA INFANTIL DONIBANE PARA SU ADAPTACIÓN A NORMATIVA (EXPEDIENTE 99/2023)",
+    "licitadores": [
+      {
+        "dnilic": "B31197528",
+        "nombrelic": "CONSLAU SL"
+      },
+      {
+        "dnilic": "B31615628",
+        "nombrelic": "CONSTRUCCIONES JOSE MIGUEL IBAÑEZ SL"
+      },
+      {
+        "dnilic": "B31268949",
+        "nombrelic": "GUILLEN OBRAS Y PROYECTOS SL"
+      },
+      {
+        "dnilic": "B71316723",
+        "nombrelic": "ERKI CONSTRUCCION SOSTENIBLE SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "2423938.81",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17568172.PDF",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Obras",
+    "codigo": "CONT_OBRA/2023/6",
+    "descripcion": "CONTRATO DE OBRAS PARA REFORMA DE VESTUARIOS FEMENINOS DE POLICÍA MUNICIPAL ",
+    "licitadores": [
+      {
+        "dnilic": "B71219919",
+        "nombrelic": "BALUARTE RYM SL"
+      },
+      {
+        "dnilic": "B71316723",
+        "nombrelic": "ERKI CONSTRUCCION SOSTENIBLE SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B71219919",
+        "nombreadj": "BALUARTE RYM SL"
+      }
+    ],
+    "implic": "94892.76",
+    "impofer": "78400.00",
+    "varialicofer": "-17.38",
+    "observacionesoferta": "",
+    "impadj": "94864.00",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17727173.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA UNO - APERTURA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17853154.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Obras",
+    "codigo": "CONT_OBRA/2023/9",
+    "descripcion": "INSTALACIÓN DE AIRE ACONDICIONADO EN LA RECEPCIÓN, OFICINAS Y OTRAS DEPENDENCIAS DEL POLIDEPORTIVO TRINQUETE DE MENDILLORRI. ENMARCADO EN EL PLAN DE RECUPERACIÓN, TRANSFORMACIÓN Y RESILIENCIA FINANCIADO POR LA UNIÓN EUROPEA-NEXTGENERATION",
+    "licitadores": [
+      {
+        "dnilic": "A28517308",
+        "nombrelic": "EULEN SA"
+      },
+      {
+        "dnilic": "A31194012",
+        "nombrelic": "MONTAJES ELECTRICOS ALBA S.A.L."
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "A31194012",
+        "nombreadj": "MONTAJES ELECTRICOS ALBA S.A.L."
+      }
+    ],
+    "implic": "97500.00",
+    "impofer": "7520.66",
+    "varialicofer": "-92.29",
+    "observacionesoferta": "",
+    "impadj": "87750.00",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\18102391.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\18229688.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Obras",
+    "codigo": "CONT_OBRA/2023/10",
+    "descripcion": "41-040/23 - OBRAS DE MEJORA DE LA ACCESIBILIDAD PEATONAL DE EJES COMERCIALES URBANOS EN SAN JORGE (MEDIDA 23 PROYECTO COMERCIO \"PAMPLONA PUEDE\" MS_010000_2021_163), EN EL MARCO DEL PLAN DE RECUPERACIÓN. TRANSFORMACIÓN Y RESILENCIA,  - NEXTGENERATIONEU",
+    "licitadores": [
+      {
+        "dnilic": "B31455983",
+        "nombrelic": "LACUNZA HERMANOS  S.L."
+      },
+      {
+        "dnilic": "B81470841",
+        "nombrelic": "INGENIERIA Y PREVENCION DE RIESGOS SL"
+      },
+      {
+        "dnilic": "B31231319",
+        "nombrelic": "EXCAVACIONES FERMIN OSES SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "191312.60",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\18047764.PDF",
+    "actas": [
+      {
+        "descripcion": "ACTUACIONES MESA CONTRATACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\18013272.PDF"
+      },
+      {
+        "descripcion": "ACTUACIONES MESA CONTRATACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\18013315.PDF"
+      },
+      {
+        "descripcion": "ACTUACIONES MESA CONTRATACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\18036256.PDF"
+      },
+      {
+        "descripcion": "ACTUACIONES MESA CONTRATACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\18047554.PDF"
+      },
+      {
+        "descripcion": "ACTUACIONES MESA CONTRATACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\18047558.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "tipocontrato not found",
+    "codigo": "CONT_PRIVADO/2023/2",
+    "descripcion": "CONTRATO PATROCINIO FUEGOS ARTIFICIALES SAN FERMIN 2023",
+    "licitadores": [
+      {
+        "dnilic": "F20033361",
+        "nombrelic": "EROSKI SOCIEDAD COOPERATIVA"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17924948.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA TÉCNICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\18013449.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2019/13",
+    "descripcion": "SUMINISTRO INSTALACIÓN Y MANTENIMIENTO DE LA SEÑALIZACIÓN HORIZONTAL Y VERTICAL EN PAMPLONA",
+    "licitadores": [
+      {
+        "dnilic": "A23377674",
+        "nombrelic": "TEVASEÑAL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "A23377674",
+        "nombreadj": "TEVASEÑAL"
+      }
+    ],
+    "implic": "600000.00",
+    "impofer": "20.00",
+    "varialicofer": "-100",
+    "observacionesoferta": "",
+    "impadj": "1034987.97",
+    "imppagos": "",
+    "plazoejec": "530",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\10389836.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\10616439.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA TÉCNICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\10616449.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA TÉCNICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\10617171.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\10648236.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\10650439.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2019/41",
+    "descripcion": "CONTRATACIÓN DE LA GESTIÓN DEL SERVICIO DE INTERVENCIÓN FAMILIAR EN EL ÁMBITO DE LA ATENCIÓN INTEGRAL DE LAS MUJERES Y SUS HIJOS E HIJAS EN DIFICULTAD SOCIAL CON PROBLEMÁTICA DE GÉNERO. AÑO 2020.",
+    "licitadores": [
+      {
+        "dnilic": "F31876436",
+        "nombrelic": "KAMIRA SOCIEDAD COOPERATIVA DE INICIATIVA SOCIAL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "F31876436",
+        "nombreadj": "KAMIRA SOCIEDAD COOPERATIVA DE INICIATIVA SOCIAL"
+      }
+    ],
+    "implic": "338497.79",
+    "impofer": "307725.25",
+    "varialicofer": "-9.09",
+    "observacionesoferta": "",
+    "impadj": "836337.63",
+    "imppagos": "",
+    "plazoejec": "245",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\11264931.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\11499727.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\11511619.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\11549475.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\11594046.PDF"
+      },
+      {
+        "descripcion": "ACTA VALORACIÓN TÉCNICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\11582970.PDF"
+      },
+      {
+        "descripcion": "ACTA PROPUESTA DE ADJUDICACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\11631420.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2021/2",
+    "descripcion": "BANDA DE GAITEROS MUNICIPALES 2021",
+    "licitadores": [
+      {
+        "dnilic": "G31293376",
+        "nombrelic": "GAITEROS DE PAMPLONA"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "G31293376",
+        "nombreadj": "GAITEROS DE PAMPLONA"
+      }
+    ],
+    "implic": "47316.28",
+    "impofer": "47316.28",
+    "varialicofer": "0",
+    "observacionesoferta": "",
+    "impadj": "141948.84",
+    "imppagos": "",
+    "plazoejec": "365",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\12918632.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\13043969.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\13044826.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\13046128.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2021/4",
+    "descripcion": "PROGRAMA DE ACTUACIONES DE DANTZARIS PROTOCOLARIAS Y OTRAS EN 2021",
+    "licitadores": [
+      {
+        "dnilic": "G31216286",
+        "nombrelic": "DUGUNA FOLKLORE TALDEA"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "G31216286",
+        "nombreadj": "DUGUNA FOLKLORE TALDEA"
+      }
+    ],
+    "implic": "31800.00",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "127200.00",
+    "imppagos": "",
+    "plazoejec": "365",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\13267132.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\13419007.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\13426050.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2021/25",
+    "descripcion": "REDACCIÓN PROYECTO Y DIRECCIÓN DE OBRA POLIDEPORTIVO BUZTINTXURI",
+    "licitadores": [
+      {
+        "dnilic": "33432129L",
+        "nombrelic": "MONGAY JIMENEZ, OSCAR"
+      },
+      {
+        "dnilic": "A31118441",
+        "nombrelic": "SERVICIOS DE LA COMARCA DE PAMPLONA S.A."
+      },
+      {
+        "dnilic": "15840045Z",
+        "nombrelic": "TABUENCA GONZALEZ, FERNANDO"
+      },
+      {
+        "dnilic": "1171743P",
+        "nombrelic": "OLITE LUMBRERAS, IGNACIO JAVIER"
+      },
+      {
+        "dnilic": "72675276Z",
+        "nombrelic": "BENGOCHEA FELIPE, MAGDALENA"
+      },
+      {
+        "dnilic": "B31765266",
+        "nombrelic": "NAVEN INGENIEROS SL"
+      },
+      {
+        "dnilic": "B31816150",
+        "nombrelic": "OM ARQ SLP"
+      },
+      {
+        "dnilic": "B71005383",
+        "nombrelic": "AAMUTILVA, ARQUITECTOS ASOCIADOS S.L.P."
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "72675276Z",
+        "nombreadj": "BENGOCHEA FELIPE, MAGDALENA"
+      },
+      {
+        "dniadj": "B31765266",
+        "nombreadj": "NAVEN INGENIEROS SL"
+      },
+      {
+        "dniadj": "B31816150",
+        "nombreadj": "OM ARQ SLP"
+      }
+    ],
+    "implic": "290400.00",
+    "impofer": "246840.00",
+    "varialicofer": "-15",
+    "observacionesoferta": "",
+    "impadj": "155156.56",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": {
+      "fechamodif": [
+        "2023-05-18T00:00:00",
+        "2023-05-18T00:00:00",
+        "2023-05-18T00:00:00"
+      ],
+      "impmodif": [
+        "93093,94",
+        "31031,31",
+        "31031,31"
+      ]
+    },
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\13532285.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\14035375.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA TÉCNICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\14035383.PDF"
+      },
+      {
+        "descripcion": "ACTA Nº 3",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\14035384.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2021/51",
+    "descripcion": "CONTRATACION DE LA  GESTIÓN DEL SERVICIO PARA EL DESARROLLO Y GESTION DE LOS PROGRAMAS DE   INTERVENCIÓN FAMILIAR  EN LOS DOMICILIOS DE LAS PERSONAS ATENDIDAS DESDE EL PROGRAMA DE ATENCION A LA  INFANCIA Y FAMILIA DEL AYUNTAMIENTO DE PAMPLONA.",
+    "licitadores": [
+      {
+        "dnilic": "F31876436",
+        "nombrelic": "KAMIRA SOCIEDAD COOPERATIVA DE INICIATIVA SOCIAL"
+      },
+      {
+        "dnilic": "A78867371",
+        "nombrelic": "GRUPO 5 ACCION Y GESTION SOCIAL SA"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "F31876436",
+        "nombreadj": "KAMIRA SOCIEDAD COOPERATIVA DE INICIATIVA SOCIAL"
+      }
+    ],
+    "implic": "1541867.67",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "1228800.00",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17005683.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17406161.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17651059.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17722261.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2021/52",
+    "descripcion": "CONTRATACIÓN DE LA GESTIÓN DEL SERVICIO DE INTERVENCIÓN FAMILIAR EN EL ÁMBITO DE LA ATENCIÓN INTEGRAL DE LAS MUJERES Y SUS HIJOS E HIJAS EN DIFICULTAD SOCIAL CON PROBLEMÁTICA DE GÉNERO.",
+    "licitadores": [
+      {
+        "dnilic": "F31876436",
+        "nombrelic": "KAMIRA SOCIEDAD COOPERATIVA DE INICIATIVA SOCIAL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "F31876436",
+        "nombreadj": "KAMIRA SOCIEDAD COOPERATIVA DE INICIATIVA SOCIAL"
+      }
+    ],
+    "implic": "790897.75",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "658750.00",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17147582.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA TÉCNICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17653832.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17653861.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2022/9",
+    "descripcion": "CONTRATACIÓN DE LOS SERVICIOS DE GESTIÓN DE LAS REDES SOCIALES DE CULTURA 2022",
+    "licitadores": [
+      {
+        "dnilic": "F71248801",
+        "nombrelic": "NACAP COMUNICACION Y RRPP S MICROCOOP"
+      },
+      {
+        "dnilic": "72695973B",
+        "nombrelic": "PEREZ DE ALBENIZ BERGASA, MACARENA"
+      },
+      {
+        "dnilic": "B71324883",
+        "nombrelic": "ROOM 116 MARKETING DIGITAL SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B71324883",
+        "nombreadj": "ROOM 116 MARKETING DIGITAL SL"
+      }
+    ],
+    "implic": "32379.60",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "56507.00",
+    "imppagos": "",
+    "plazoejec": "365",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15086263.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15153945.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15238275.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15238412.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15251216.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA TÉCNICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15305655.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15361160.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2022/10",
+    "descripcion": "CONTRATO PROGRAMA MENUDAS FIESTAS EN LA PLAZA DE LA LIBERTAD SAN FERMIN 2022",
+    "licitadores": [
+      {
+        "dnilic": "B31501190",
+        "nombrelic": "NAVAR PRODUCCIONES SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B31501190",
+        "nombreadj": "NAVAR PRODUCCIONES SL"
+      }
+    ],
+    "implic": "92000.00",
+    "impofer": "75000.00",
+    "varialicofer": "-18.48",
+    "observacionesoferta": "",
+    "impadj": "181500.00",
+    "imppagos": "90750.00",
+    "plazoejec": "12",
+    "modificaciones": "",
+    "variaoferpago": "-18.48",
+    "varialicpago": "-1.36",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15221552.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15407545.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15433998.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15510189.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15528718.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2022/13",
+    "descripcion": "CONTRATO DE SERVICIOS DE GESTIÓN DE LOS ASEOS PÚBLICOS MUNICIPALES DE PASEO SARASATE DE PAMPLONA ",
+    "licitadores": [
+      {
+        "dnilic": "B31452634",
+        "nombrelic": "DISTRIVISUAL SL"
+      },
+      {
+        "dnilic": "73125115L",
+        "nombrelic": "ANDIA CHAVEZ, LUIS ALFONSO"
+      },
+      {
+        "dnilic": "",
+        "nombrelic": "GOBIERNO DE NAVARRA. DPTO. DE DESARROLLO ECONOMICO Y EMPRESARIAL. RELA"
+      },
+      {
+        "dnilic": "B71326656",
+        "nombrelic": "AREETA NAVARRA SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B31452634",
+        "nombreadj": "DISTRIVISUAL SL"
+      }
+    ],
+    "implic": "125757.60",
+    "impofer": "99750.00",
+    "varialicofer": "-20.68",
+    "observacionesoferta": "",
+    "impadj": "120697.50",
+    "imppagos": "",
+    "plazoejec": "365",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\16099637.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\16336672.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\16871615.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\16882623.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\16959923.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2022/33",
+    "descripcion": "SALIDAS DE LA COMPARSA GIGANTES Y CABEZUDOS 2022",
+    "licitadores": [
+      {
+        "dnilic": "G31630296",
+        "nombrelic": "ASOCIACION CULTURAL GIGANTES DE PAMPLONA"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "G31630296",
+        "nombreadj": "ASOCIACION CULTURAL GIGANTES DE PAMPLONA"
+      }
+    ],
+    "implic": "111845.90",
+    "impofer": "111845.90",
+    "varialicofer": "0",
+    "observacionesoferta": "",
+    "impadj": "223691.80",
+    "imppagos": "",
+    "plazoejec": "365",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15789839.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15759909.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\15772751.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2022/42",
+    "descripcion": "CONTRATACIÓN DEL SERVICIO DE APOYO A LA GESTIÓN DEL PROYECTO PSTD PAMPLONA SF365 EN EL PLAN DE RECUPERACIÓN, TRANSFORMACIÓN, RESILENCIA FINANCIADO POR LA UNIÓN EUROPEA_NEXTGENERATIONEU ",
+    "licitadores": [
+      {
+        "dnilic": "A31419773",
+        "nombrelic": "ZABALA INNOVATION CONSULTING S"
+      },
+      {
+        "dnilic": "B81690471",
+        "nombrelic": "DELOITTE CONSULTING SL"
+      },
+      {
+        "dnilic": "",
+        "nombrelic": "TRIBUNAL ADMINISTRATIVO DE CONTRATOS PÚBLICOS DE NAVARRA"
+      },
+      {
+        "dnilic": "B87609657",
+        "nombrelic": "SIDI CONSULTORIA Y GESTION SL"
+      },
+      {
+        "dnilic": "B61622262",
+        "nombrelic": "MAZARS AUDITORES SLP"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B87609657",
+        "nombreadj": "SIDI CONSULTORIA Y GESTION SL"
+      }
+    ],
+    "implic": "384475.00",
+    "impofer": "211460.81",
+    "varialicofer": "-45",
+    "observacionesoferta": "",
+    "impadj": "211460.76",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\16219847.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\16604003.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\16701239.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\16701248.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\16975768.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17298629.PDF"
+      },
+      {
+        "descripcion": "ACTA VALORACIÓN TÉCNICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\16701238.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2022/61",
+    "descripcion": "CONTRATACIÓN DEL PLAN DIGITAL DE PARTICIPACIÓN DEL PSTD PAMPLONA SF365 EN EL MARCO DEL PLAN DE RECUPERACIÓN, TRANSFORMACIÓN Y RESILIENCIA, FINANCIADO POR LA UNIÓN EUROPEA – NEXTGENERATIONEU",
+    "licitadores": [
+      {
+        "dnilic": "B31777295",
+        "nombrelic": "ARBUNIES Y LEKUNBERRI ASOCIADOS SL"
+      },
+      {
+        "dnilic": "B31917503",
+        "nombrelic": "ARETE ACTIVA SL"
+      },
+      {
+        "dnilic": "14611512A",
+        "nombrelic": "VIRTO QUECEDO, IÑIGO ABDON"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B31917503",
+        "nombreadj": "ARETE ACTIVA SL"
+      }
+    ],
+    "implic": "23600.00",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "18880.00",
+    "imppagos": "",
+    "plazoejec": "650",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\16882070.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA APERTURA SOBRES A Y B",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17069410.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17139462.PDF"
+      },
+      {
+        "descripcion": "ACTA VALORACIÓN TÉCNICA Y APERTURA SOBRE C",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17139458.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2022/62",
+    "descripcion": "REDACCIÓN DE LA MODIFICACIÓN ESTRUCTURANTE PLAN MUNICIPAL DE PAMPLONA Y DEL PLAN PARCIAL- DONAPEA. ",
+    "licitadores": [
+      {
+        "dnilic": "B31528573",
+        "nombrelic": "ALONSO HERNANDEZ & ASOCIADOS ARQUITECTURA SL"
+      },
+      {
+        "dnilic": "B31971799",
+        "nombrelic": "ALONSO HERNANDEZ Y ASOCIADOS INNOVACION Y DESARROLLO EN ARQUITECTURA S"
+      },
+      {
+        "dnilic": "1931553J",
+        "nombrelic": "DELGADO JIMENEZ, ALEXANDRA"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "423500.00",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\16689397.PDF",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2022/64",
+    "descripcion": "DIRECCIÓN DE OBRA DE LA 2ª FASE DE URBANIZACIÓN DEL AREA DE REPARTO ARS-4 DE LA U.I.XIX DEL PLAN MUNICIPAL DE PAMPLONA",
+    "licitadores": [
+      {
+        "dnilic": "A31112337",
+        "nombrelic": "PJS PROYECTOS ESTUDIOS Y SERVICIOS TECNICOS NA SA"
+      },
+      {
+        "dnilic": "B31252463",
+        "nombrelic": "CIMA INGENIEROS SL"
+      },
+      {
+        "dnilic": "B31826688",
+        "nombrelic": "MKRINGENIERIA ARQUITECTURA S L"
+      },
+      {
+        "dnilic": "13134529B",
+        "nombrelic": "VILLUELA GARCIA, PEDRO ANGEL"
+      },
+      {
+        "dnilic": "B71431696",
+        "nombrelic": "ALÍNEA INGENIERÍA Y TERRITORIO, S.L."
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "72600.00",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\16832051.PDF",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2022/67",
+    "descripcion": "GESTIÓN DE LOS SERVICIOS DE PORTERÍA, SOCORRISMO, MANTENIMIENTO, LIMPIEZA Y OTROS EN EL COMPLEJO DEPORTIVO DE ARANZADI",
+    "licitadores": [
+      {
+        "dnilic": "B31557846",
+        "nombrelic": "GURE URTATS ADUR S L"
+      },
+      {
+        "dnilic": "A80241789",
+        "nombrelic": "SERVEO SERVICIOS SA"
+      },
+      {
+        "dnilic": "B26324285",
+        "nombrelic": "JIG EASY SERVICES SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "A80241789",
+        "nombreadj": "SERVEO SERVICIOS SA"
+      }
+    ],
+    "implic": "673362.89",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "630500.00",
+    "imppagos": "",
+    "plazoejec": "365",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17244126.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17552843.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2022/68",
+    "descripcion": "GESTIÓN DE LOS SERVICIOS DE PORTERÍA,  SOCORRISMO, MANTENIMIENTO,  LIMPIEZA Y OTROS EN LA CIUDAD DEPORTIVA SAN JORGE (AQUAVOX)",
+    "licitadores": [
+      {
+        "dnilic": "B31235492",
+        "nombrelic": "SEDENA SL"
+      },
+      {
+        "dnilic": "15771589Y",
+        "nombrelic": "PIMOULIER MENA, LUIS"
+      },
+      {
+        "dnilic": "A80241789",
+        "nombrelic": "SERVEO SERVICIOS SA"
+      },
+      {
+        "dnilic": "B26324285",
+        "nombrelic": "JIG EASY SERVICES SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B31235492",
+        "nombreadj": "SEDENA SL"
+      }
+    ],
+    "implic": "611856.78",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "586743.25",
+    "imppagos": "",
+    "plazoejec": "365",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17244468.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17552893.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2022/69",
+    "descripcion": "SERVICIO LAVADO/PLANCHADO DE ROPA Y ENTREGA DOMICILIO CON DESTINO AL SERVICIO DE ATENCIÓN A DOMICILIO AYUNTAMIENTO DE PAMPLONA , RESERVANDO SU PARTICIPACIÓN A CENTROS ESPECIALES DE EMPLEO (CEE) O CENTROS DE INSERCIÓN SOCIOLABORAL (CIS), AÑO 2023",
+    "licitadores": [
+      {
+        "dnilic": "G31794654",
+        "nombrelic": "FUNDACION ASPACE NAVARRA PARA EL EMPLEO"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "G31794654",
+        "nombreadj": "FUNDACION ASPACE NAVARRA PARA EL EMPLEO"
+      }
+    ],
+    "implic": "21648.00",
+    "impofer": "20.50",
+    "varialicofer": "-99.91",
+    "observacionesoferta": "",
+    "impadj": "12628.00",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17004117.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17284919.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA Nº 2",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17590336.PDF"
+      },
+      {
+        "descripcion": "ACTA  Nº 2",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17590271.PDF"
+      },
+      {
+        "descripcion": "ACTA  Nº 2",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17590272.PDF"
+      },
+      {
+        "descripcion": "ACTA PROPUESTA DE ADJUDICACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17554894.PDF"
+      },
+      {
+        "descripcion": "ACTA PROPUESTA DE ADJUDICACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17557726.PDF"
+      },
+      {
+        "descripcion": "ACTA Nº 4",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17654593.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2022/76",
+    "descripcion": "CONTRATACIÓN DE LABORES DE PORTERÍA, RECEPCIÓN, ATENCIÓN AL PÚBLICO Y LIMPIEZA EN LA ANTIGUA ESTACIÓN DE AUTOBUSES DURANTE EL AÑO 2023",
+    "licitadores": [
+      {
+        "dnilic": "G31794654",
+        "nombrelic": "FUNDACION ASPACE NAVARRA PARA EL EMPLEO"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "G31794654",
+        "nombreadj": "FUNDACION ASPACE NAVARRA PARA EL EMPLEO"
+      }
+    ],
+    "implic": "56360.00",
+    "impofer": "56359.00",
+    "varialicofer": "0",
+    "observacionesoferta": "",
+    "impadj": "46965.83",
+    "imppagos": "",
+    "plazoejec": "306",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "100",
+    "obligsubrogacion": "100",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\16817030.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17071764.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA TÉCNICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17080654.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17163234.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2022/78",
+    "descripcion": "REALIZACIÓN DE LA  AUDITORÍA ECONÓMICO-FINANCIERA CORRESPONDIENTE A LA LIQUIDACIÓN PRESUPUESTARIA, CUENTAS ANUALES Y GESTIÓN ECONÓMICA DEL EJERCICIO 2022 DEL ORGANISMO AUTÓNOMO ESCUELAS INFANTILES MUNICIPALES DE PAMPLONA. (EXPEDIENTE Nº 431/2022).",
+    "licitadores": [
+      {
+        "dnilic": "",
+        "nombrelic": ""
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "9075.00",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\16804901.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA TÉCNICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17003539.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17013134.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17034167.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2023/2",
+    "descripcion": "INSTALACIÓN, VIGILANCIA, MANTENIMIENTO Y RETIRADA DE DIVERSAS INSTALACIONES DE ASEOS PARA LAS FIESTAS DE SAN FERMÍN 2023",
+    "licitadores": [
+      {
+        "dnilic": "B31585318",
+        "nombrelic": "ALQUIBALAT SL"
+      },
+      {
+        "dnilic": "18198999L",
+        "nombrelic": "PEIRO BAQUEDANO, RAFAEL MARIA"
+      },
+      {
+        "dnilic": "",
+        "nombrelic": "EH BILDU"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B31585318",
+        "nombreadj": "ALQUIBALAT SL"
+      }
+    ],
+    "implic": "150000.00",
+    "impofer": "123966.94",
+    "varialicofer": "-17.36",
+    "observacionesoferta": "",
+    "impadj": "150000.00",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17272879.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17441372.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17463367.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17486575.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2023/4",
+    "descripcion": "PRESTACIÓN DE LOS SERVICIOS DE PORTERÍA, MANTENIMIENTO Y LIMPIEZA EN EL POLIDEPORTIVO TRINQUETE MENDILLORRI",
+    "licitadores": [
+      {
+        "dnilic": "B31557846",
+        "nombrelic": "GURE URTATS ADUR S L"
+      },
+      {
+        "dnilic": "A80241789",
+        "nombrelic": "SERVEO SERVICIOS SA"
+      },
+      {
+        "dnilic": "44648787Z",
+        "nombrelic": "RAMALLO TORAN, RUBEN"
+      },
+      {
+        "dnilic": "B26324285",
+        "nombrelic": "JIG EASY SERVICES SL"
+      },
+      {
+        "dnilic": "B71401590",
+        "nombrelic": "ASE PLUS SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "A80241789",
+        "nombreadj": "SERVEO SERVICIOS SA"
+      }
+    ],
+    "implic": "227952.13",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "203896.56",
+    "imppagos": "",
+    "plazoejec": "365",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17460089.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17761745.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2023/6",
+    "descripcion": "CONTRATACIÓN DEL SERVICIO DE INFORMACIÓN, PROMOCIÓN DE LOS DERECHOS Y PARTICIPACIÓN LGTBI DEL AYUNTAMIENTO DE PAMPLONA",
+    "licitadores": [
+      {
+        "dnilic": "G31756331",
+        "nombrelic": "KATTALINGORRI"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "G31756331",
+        "nombreadj": "KATTALINGORRI"
+      }
+    ],
+    "implic": "205908.12",
+    "impofer": "170172.00",
+    "varialicofer": "-17.36",
+    "observacionesoferta": "IVA EXCLUIDO",
+    "impadj": "170172.00",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17301728.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17602669.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA TÉCNICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17649599.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17736113.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2023/8",
+    "descripcion": "CONTRATACIÓN DE LA PRODUCCIÓN, ESTRENO Y EXHIBICIÓN Y CAMPAÑA ESCOLAR DE LA OBRA GANADORA DEL XXXI CONCURSO DE TEXTOS TEATRALES DIRIGIDOS AL PÚBLICO INFANTIL, MODALIDAD EN EUSKERA, EN LA EDICIÓN DE 2022.",
+    "licitadores": [
+      {
+        "dnilic": "G31156920",
+        "nombrelic": "ESCUELA NAVARRA DE TEATRO EL COLECTIVO"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "G31156920",
+        "nombreadj": "ESCUELA NAVARRA DE TEATRO EL COLECTIVO"
+      }
+    ],
+    "implic": "19822.50",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "19822.50",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17313215.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17341001.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2023/9",
+    "descripcion": "CONTRATACIÓN DEL PLAN ESTRATÉGICO DE TURISMO DE PAMPLONA-IRUÑA 2023-2029 EN EL MARCO DEL PRTR FINANCIADO POR LA UNIÓN EUROPEA-NEXTGENERATION_EU",
+    "licitadores": [
+      {
+        "dnilic": "B96020920",
+        "nombrelic": "DESARROLLO E INVESTIGACIONES TURISTICAS SL"
+      },
+      {
+        "dnilic": "A63141170",
+        "nombrelic": "D ALEPH INICIATIVAS Y ORGANIZACION SA"
+      },
+      {
+        "dnilic": "B81690471",
+        "nombrelic": "DELOITTE CONSULTING SL"
+      },
+      {
+        "dnilic": "B98381205",
+        "nombrelic": "SOLUCIONES TURISTICAS DEL MEDITERRANEO"
+      },
+      {
+        "dnilic": "B42667253",
+        "nombrelic": "SIEN PLANIFICACIÓN INTELIGENTE SL"
+      },
+      {
+        "dnilic": "B41287103",
+        "nombrelic": "ARENALGRUPO CONSULTOR SL"
+      },
+      {
+        "dnilic": "B75039297",
+        "nombrelic": "IETEAM GROUP SL"
+      },
+      {
+        "dnilic": "B98596802",
+        "nombrelic": "INTELIGENCIA TURÍSTICA SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B98381205",
+        "nombreadj": "SOLUCIONES TURISTICAS DEL MEDITERRANEO"
+      }
+    ],
+    "implic": "55055.00",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "41291.25",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17689027.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\18027791.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\18038555.PDF"
+      },
+      {
+        "descripcion": "ACTA PROPUESTA DE ADJUDICACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\18047796.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2023/10",
+    "descripcion": "CONTRATACIÓN SERVICIO SECRETARIA TÉCNICA, ORGANIZACIÓN Y CAPTACIÓN PATROCINIO CONGRESO DE MACROEVENTOS URBANOS SOSTENIBLES Y SEGUROS SF 365 LAB EN EL MARCO DEL PROYECTO PSTD PAMPLONA SF365 DENTRO DEL PRTR FINANCIADO POR LA UNIÓN EUROPEA-NEXTGENERATION EU",
+    "licitadores": [
+      {
+        "dnilic": "18211213C",
+        "nombrelic": "MANGADO BELOQUI, CARLOS LUIS"
+      },
+      {
+        "dnilic": "B31815251",
+        "nombrelic": "EVENTOS NAVARRA SL"
+      },
+      {
+        "dnilic": "E71113724",
+        "nombrelic": "IMIZCOZ OSES DANIEL E IMIZCOZ OSES LAURA"
+      },
+      {
+        "dnilic": "F71248801",
+        "nombrelic": "NACAP COMUNICACION Y RRPP S MICROCOOP"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "18211213C",
+        "nombreadj": "MANGADO BELOQUI, CARLOS LUIS"
+      },
+      {
+        "dniadj": "F71248801",
+        "nombreadj": "NACAP COMUNICACION Y RRPP S MICROCOOP"
+      }
+    ],
+    "implic": "154125.00",
+    "impofer": "105722.10",
+    "varialicofer": "-31.4",
+    "observacionesoferta": "",
+    "impadj": "127923.74",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17453246.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA TÉCNICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17901980.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17912183.PDF"
+      },
+      {
+        "descripcion": "ACTA VALORACION B Y APERTURA C",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17901958.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2023/11",
+    "descripcion": "CONTRATACIÓN DE SERVICIOS PARA LA DINAMIZACIÓN DE LOS TRES ÚLTIMOS PELDAÑOS DE \"LA ESCALERICA\" EN EL MARCO DEL PLAN DE RECUPERACIÓN, TRANSFORMACIÓN Y RESILIENCIA, FINANCIADO POR LA UNIÓN EUROPEA-NEXTGENERATIONEU-",
+    "licitadores": [
+      {
+        "dnilic": "B71319941",
+        "nombrelic": "YERBABUENA PRODUCCIONES SL"
+      },
+      {
+        "dnilic": "G71373443",
+        "nombrelic": "ASOCIACIÓN VA DE KULTURA"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "G71373443",
+        "nombreadj": "ASOCIACIÓN VA DE KULTURA"
+      }
+    ],
+    "implic": "48400.00",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "47432.00",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17219230.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17332778.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17366719.PDF"
+      },
+      {
+        "descripcion": "ACTA 2 VALORACION Y APERTURA C",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17360758.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2023/15",
+    "descripcion": "CONTRATACIÓN DE ASISTENCIA TÉCNICA PARA LA ELABORACIÓN, EJECUCIÓN Y DESARROLLO DEL PROGRAMA DE SENSIBILIZACIÓN Y CONCIENCIACIÓN PAMPLONA 2030\"",
+    "licitadores": [
+      {
+        "dnilic": "B31235492",
+        "nombrelic": "SEDENA SL"
+      },
+      {
+        "dnilic": "A31509292",
+        "nombrelic": "INTRO PUBLICIDAD Y COMUNICACION, S.A."
+      },
+      {
+        "dnilic": "F71282255",
+        "nombrelic": "C DE COMUNICACIÓN SOCIEDAD  MICROCOOPERATIVA"
+      },
+      {
+        "dnilic": "B93326601",
+        "nombrelic": "INNOVACIÓN COLECTIVA & CONGESTIÓN"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "A31509292",
+        "nombreadj": "INTRO PUBLICIDAD Y COMUNICACION, S.A."
+      }
+    ],
+    "implic": "136026.39",
+    "impofer": "90000.00",
+    "varialicofer": "-33.84",
+    "observacionesoferta": "",
+    "impadj": "108900.00",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17761303.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17934304.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA TÉCNICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\18067885.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\18109467.PDF"
+      },
+      {
+        "descripcion": "ACTA APERTURA TÉCNICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\18067844.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2023/16",
+    "descripcion": "SERVICIO DE INFORMACIÓN Y RECURSOS PARA LA PARTICIPACIÓN",
+    "licitadores": [
+      {
+        "dnilic": "B31235492",
+        "nombrelic": "SEDENA SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B31235492",
+        "nombreadj": "SEDENA SL"
+      }
+    ],
+    "implic": "143457.30",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "203013.41",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "actas": [],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2023/17",
+    "descripcion": "PROGRAMACIÓN DE LAS VERBENAS Y ACTUACIONES MUSICALES EN LA PLAZA DE LA CRUZ SAN FERMIN 2023",
+    "licitadores": [
+      {
+        "dnilic": "72666040R",
+        "nombrelic": "SALAS SOTO, ANGEL MARIA"
+      },
+      {
+        "dnilic": "B31936305",
+        "nombrelic": "SERVICIOS CULTURALES NARIA S.L."
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B31936305",
+        "nombreadj": "SERVICIOS CULTURALES NARIA S.L."
+      }
+    ],
+    "implic": "22500.00",
+    "impofer": "21054.00",
+    "varialicofer": "-6.43",
+    "observacionesoferta": "",
+    "impadj": "21054.00",
+    "imppagos": "",
+    "plazoejec": "15",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17602754.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17804272.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17876207.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA PROPUESTA ADJUDICACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17933431.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2023/18",
+    "descripcion": "SERVICIOS PARA LA ORGANIZACION Y DINAMIZACION DE LA PROGRAMACION DE LA ZONA JOVEN SAN FERMIN 2023",
+    "licitadores": [
+      {
+        "dnilic": "B31235492",
+        "nombrelic": "SEDENA SL"
+      },
+      {
+        "dnilic": "73449589D",
+        "nombrelic": "VERA ARRASATE, PAULA"
+      },
+      {
+        "dnilic": "B71382030",
+        "nombrelic": "VIAJES DIVERTIS 2007 SL"
+      },
+      {
+        "dnilic": "G71373443",
+        "nombrelic": "ASOCIACIÓN VA DE KULTURA"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B71382030",
+        "nombreadj": "VIAJES DIVERTIS 2007 SL"
+      }
+    ],
+    "implic": "71390.00",
+    "impofer": "61576.90",
+    "varialicofer": "-13.75",
+    "observacionesoferta": "",
+    "impadj": "61576.90",
+    "imppagos": "",
+    "plazoejec": "8",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17580002.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17735944.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17829738.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2023/19",
+    "descripcion": "PRODUCCIÓN EVENTOS PLAZA FUEROS, PLAZA COMPAÑIA, PASEO SARASATE, PROTOCOLO Y OTROS EVENTOS Y PLAZA CASTILLO SAN FERMIN 2023 (LOTE 1: PLAZA DE LOS FUEROS)",
+    "licitadores": [
+      {
+        "dnilic": "72666040R",
+        "nombrelic": "SALAS SOTO, ANGEL MARIA"
+      },
+      {
+        "dnilic": "B71001028",
+        "nombrelic": "OLAZAR GESTIÓN SL"
+      },
+      {
+        "dnilic": "B71344642",
+        "nombrelic": "OSTIZ SISTEMAS AUDIOVISUALES 2017 SL"
+      },
+      {
+        "dnilic": "B71465124",
+        "nombrelic": "GESTION ARENA GLOBAL SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B71001028",
+        "nombreadj": "OLAZAR GESTIÓN SL"
+      }
+    ],
+    "implic": "99000.00",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "88978.56",
+    "imppagos": "",
+    "plazoejec": "16",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17651038.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17824196.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17835123.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17881911.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17949044.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2023/19",
+    "descripcion": "PRODUCCIÓN EVENTOS PLAZA FUEROS, PLAZA COMPAÑIA, PASEO SARASATE, PROTOCOLO Y OTROS EVENTOS Y PLAZA CASTILLO SAN FERMIN 2023 (LOTE 2: PLAZA COMPAÑIA)",
+    "licitadores": [
+      {
+        "dnilic": "72666040R",
+        "nombrelic": "SALAS SOTO, ANGEL MARIA"
+      },
+      {
+        "dnilic": "B71001028",
+        "nombrelic": "OLAZAR GESTIÓN SL"
+      },
+      {
+        "dnilic": "B71344642",
+        "nombrelic": "OSTIZ SISTEMAS AUDIOVISUALES 2017 SL"
+      },
+      {
+        "dnilic": "B71465124",
+        "nombrelic": "GESTION ARENA GLOBAL SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B71001028",
+        "nombreadj": "OLAZAR GESTIÓN SL"
+      }
+    ],
+    "implic": "36000.00",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "35997.50",
+    "imppagos": "",
+    "plazoejec": "16",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17651038.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17824196.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17835123.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17881911.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17949044.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2023/19",
+    "descripcion": "PRODUCCIÓN EVENTOS PLAZA FUEROS, PLAZA COMPAÑIA, PASEO SARASATE, PROTOCOLO Y OTROS EVENTOS Y PLAZA CASTILLO SAN FERMIN 2023 (LOTE 3: PASEO SARASATE)",
+    "licitadores": [
+      {
+        "dnilic": "72666040R",
+        "nombrelic": "SALAS SOTO, ANGEL MARIA"
+      },
+      {
+        "dnilic": "B71001028",
+        "nombrelic": "OLAZAR GESTIÓN SL"
+      },
+      {
+        "dnilic": "B71344642",
+        "nombrelic": "OSTIZ SISTEMAS AUDIOVISUALES 2017 SL"
+      },
+      {
+        "dnilic": "B71465124",
+        "nombrelic": "GESTION ARENA GLOBAL SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B71001028",
+        "nombreadj": "OLAZAR GESTIÓN SL"
+      }
+    ],
+    "implic": "25981.00",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "25978.70",
+    "imppagos": "",
+    "plazoejec": "16",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17651038.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17824196.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17835123.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17881911.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17949044.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2023/19",
+    "descripcion": "PRODUCCIÓN EVENTOS PLAZA FUEROS, PLAZA COMPAÑIA, PASEO SARASATE, PROTOCOLO Y OTROS EVENTOS Y PLAZA CASTILLO SAN FERMIN 2023 (LOTE 4: PROTOCOLO Y OTROS EVEN)",
+    "licitadores": [
+      {
+        "dnilic": "72666040R",
+        "nombrelic": "SALAS SOTO, ANGEL MARIA"
+      },
+      {
+        "dnilic": "B71001028",
+        "nombrelic": "OLAZAR GESTIÓN SL"
+      },
+      {
+        "dnilic": "B71344642",
+        "nombrelic": "OSTIZ SISTEMAS AUDIOVISUALES 2017 SL"
+      },
+      {
+        "dnilic": "B71465124",
+        "nombrelic": "GESTION ARENA GLOBAL SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B71344642",
+        "nombreadj": "OSTIZ SISTEMAS AUDIOVISUALES 2017 SL"
+      }
+    ],
+    "implic": "32100.00",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "26807.55",
+    "imppagos": "",
+    "plazoejec": "16",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17651038.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17824196.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17835123.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17881911.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17949044.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2023/19",
+    "descripcion": "PRODUCCIÓN EVENTOS PLAZA FUEROS, PLAZA COMPAÑIA, PASEO SARASATE, PROTOCOLO Y OTROS EVENTOS Y PLAZA CASTILLO SAN FERMIN 2023 (LOTE 5: PLAZA DEL CASTILLO)",
+    "licitadores": [
+      {
+        "dnilic": "72666040R",
+        "nombrelic": "SALAS SOTO, ANGEL MARIA"
+      },
+      {
+        "dnilic": "B71001028",
+        "nombrelic": "OLAZAR GESTIÓN SL"
+      },
+      {
+        "dnilic": "B71344642",
+        "nombrelic": "OSTIZ SISTEMAS AUDIOVISUALES 2017 SL"
+      },
+      {
+        "dnilic": "B71465124",
+        "nombrelic": "GESTION ARENA GLOBAL SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "72666040R",
+        "nombreadj": "SALAS SOTO, ANGEL MARIA"
+      }
+    ],
+    "implic": "145000.00",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "129470.00",
+    "imppagos": "",
+    "plazoejec": "16",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17651038.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17824196.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17835123.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17881911.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17949044.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2023/26",
+    "descripcion": "CONTRATACIÓN DE LOS SERVICIOS POSTALES O DE CORREOS DEL AYUNTAMIENTO DE PAMPLONA (NOTIFICACIONES DE ACTOS Y RESOLUCIONES)",
+    "licitadores": [
+      {
+        "dnilic": "B31521560",
+        "nombrelic": "GUREAK NAVARRA SLU"
+      },
+      {
+        "dnilic": "B01905405",
+        "nombrelic": "ANEM ADVANCED LOGISTICS S.L."
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B31521560",
+        "nombreadj": "GUREAK NAVARRA SLU"
+      }
+    ],
+    "implic": "174240.00",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "174240.00",
+    "imppagos": "",
+    "plazoejec": "365",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17665107.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\18035159.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\18038800.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\18038826.PDF"
+      },
+      {
+        "descripcion": "ACTA APERTURA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\18108515.PDF"
+      },
+      {
+        "descripcion": "ACTA PROPUESTA DE ADJUDICACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\18103163.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2023/26",
+    "descripcion": "CONTRATACIÓN DE LOS SERVICIOS POSTALES O DE CORREOS DEL AYUNTAMIENTO DE PAMPLONA (CORRESPONDENCIA ORDINARIA)",
+    "licitadores": [
+      {
+        "dnilic": "B31521560",
+        "nombrelic": "GUREAK NAVARRA SLU"
+      },
+      {
+        "dnilic": "B01905405",
+        "nombrelic": "ANEM ADVANCED LOGISTICS S.L."
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B31521560",
+        "nombreadj": "GUREAK NAVARRA SLU"
+      }
+    ],
+    "implic": "38478.00",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "38478.00",
+    "imppagos": "",
+    "plazoejec": "365",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17665107.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\18035159.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\18038800.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\18038826.PDF"
+      },
+      {
+        "descripcion": "ACTA APERTURA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\18108515.PDF"
+      },
+      {
+        "descripcion": "ACTA PROPUESTA DE ADJUDICACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\18103163.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Asistencia",
+    "codigo": "CONT_SERVICIOS/2023/30",
+    "descripcion": "ASISTENCIA TÉCNICA PARA EL SOPORTE Y GESTIÓN DEL PROYECTO CASA DE LAS MUJERES DE PAMPLONA (POR LICITACIÓN DESIERTA)",
+    "licitadores": [
+      {
+        "dnilic": "B31235492",
+        "nombrelic": "SEDENA SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B31235492",
+        "nombreadj": "SEDENA SL"
+      }
+    ],
+    "implic": "35500.00",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "35496.56",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17665301.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17723236.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17738707.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Suministro",
+    "codigo": "CONT_SUMINISTRO/2019/5",
+    "descripcion": "CONTRATO DE SUMINISTRO DE ENERGIA  EN INSTALACIONES DE ALUMBRADO PUBLICO",
+    "licitadores": [
+      {
+        "dnilic": "B91405084",
+        "nombrelic": "ONDEMAND FACILITIES SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B91405084",
+        "nombreadj": "ONDEMAND FACILITIES SL"
+      }
+    ],
+    "implic": "2800000.00",
+    "impofer": "335336.86",
+    "varialicofer": "-88.02",
+    "observacionesoferta": "",
+    "impadj": "11367092.85",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": {
+      "fechamodif": [
+        "2020-07-20T00:00:00",
+        "2021-06-08T00:00:00",
+        "2022-07-05T00:00:00"
+      ],
+      "impmodif": [
+        "510000,00",
+        "727000,00",
+        "632117,17"
+      ]
+    },
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\10322734.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA 1",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\10616977.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA 2",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\10621146.PDF"
+      },
+      {
+        "descripcion": "ACTA 3",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\10615468.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Suministro",
+    "codigo": "CONT_SUMINISTRO/2022/6",
+    "descripcion": "SUMINISTRO DE ALIMENTOS, GESTIÓN DE PEDIDOS, ALMACENAMIENTO Y REPARTO PARA LA ELABORACION DE LOS MENÚS SALUDABLES DE LAS ESCUELAS INFANTILES MUNICIPALES DEL AYUNTAMIENTO DE PAMPLONA (68/2022)",
+    "licitadores": [
+      {
+        "dnilic": "G71361455",
+        "nombrelic": "ASOCIACION EKOPLAZA ELKARTEA"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "576841.30",
+    "impofer": "508352.43",
+    "varialicofer": "-11.87",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\16812699.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17283862.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17447341.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17498229.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Suministro",
+    "codigo": "CONT_SUMINISTRO/2022/15",
+    "descripcion": "CONTRATO SUMINISTRO DISEÑO, ELABORACIÓN, SUMINISTROS, INSTALACIÓN Y PUESTA EN FUNCIONAMIENTO DEL CENTRO EXPERIENCIAS SF365 UBICADO EN EL “CUERPO DE GUARDIA” DEL PORTAL ROCHAPEA DE PAMPLONA EN EL MARCO PRTR FINANCIADO POR UNIÓN EUROPEA–NEXTGENERATIONEU",
+    "licitadores": [
+      {
+        "dnilic": "33415524C",
+        "nombrelic": "KAHLE OLASO, ENRIQUE"
+      },
+      {
+        "dnilic": "B31706476",
+        "nombrelic": "ARENA COMUNICACION AUDIOVISUAL S L"
+      },
+      {
+        "dnilic": "B71344642",
+        "nombrelic": "OSTIZ SISTEMAS AUDIOVISUALES 2017 SL"
+      },
+      {
+        "dnilic": "B71363642",
+        "nombrelic": "ELAMEDIA ESTUDIOS CINEMA SERVICES SLU"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "",
+        "nombreadj": ""
+      }
+    ],
+    "implic": "266200.00",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17469063.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA DE VALORACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17910768.PDF"
+      },
+      {
+        "descripcion": "ACTA VALORACION Y PROPUESTA DE ADJUDICACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17910742.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Suministro",
+    "codigo": "CONT_SUMINISTRO/2022/17",
+    "descripcion": "CONTRATACIÓN DEL SUMINISTRO DE DESFIBRILADORES PARA LAS INSTALACIONES DEPORTIVAS MUNICIPALES",
+    "licitadores": [
+      {
+        "dnilic": "B71049456",
+        "nombrelic": "IDM LIFE SAVING EQUIPMENT CORPORACION IBERICA SL"
+      },
+      {
+        "dnilic": "B85649903",
+        "nombrelic": "ANEK S 3 SL"
+      },
+      {
+        "dnilic": "B86479078",
+        "nombrelic": "ALMAS INDUSTRIES B-SAFE"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B85649903",
+        "nombreadj": "ANEK S 3 SL"
+      }
+    ],
+    "implic": "35695.00",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "16056.70",
+    "imppagos": "",
+    "plazoejec": "730",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\16754733.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\16871878.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\16921377.PDF"
+      },
+      {
+        "descripcion": "DOCUMENTACION",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17010427.PDF"
+      },
+      {
+        "descripcion": "DOCUMENTACION",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17010432.PDF"
+      },
+      {
+        "descripcion": "DOCUMENTACION",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17010434.PDF"
+      },
+      {
+        "descripcion": "DOCUMENTACION",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17010437.PDF"
+      },
+      {
+        "descripcion": "DOCUMENTACION",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17010438.PDF"
+      },
+      {
+        "descripcion": "DOCUMENTACION",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17010442.PDF"
+      },
+      {
+        "descripcion": "DOCUMENTACION",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17010443.PDF"
+      },
+      {
+        "descripcion": "DOCUMENTACION",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17010447.PDF"
+      },
+      {
+        "descripcion": "DOCUMENTACION",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17010449.PDF"
+      },
+      {
+        "descripcion": "DOCUMENTACION",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17010451.PDF"
+      },
+      {
+        "descripcion": "DOCUMENTACION",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17010454.PDF"
+      },
+      {
+        "descripcion": "DOCUMENTACION",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17010456.PDF"
+      },
+      {
+        "descripcion": "DOCUMENTACION",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17010462.PDF"
+      },
+      {
+        "descripcion": "DOCUMENTACION",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17010463.PDF"
+      },
+      {
+        "descripcion": "DOCUMENTACION",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17010467.PDF"
+      },
+      {
+        "descripcion": "DOCUMENTACION",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17010469.PDF"
+      },
+      {
+        "descripcion": "DOCUMENTACION",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17010472.PDF"
+      },
+      {
+        "descripcion": "DOCUMENTACION",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17010474.PDF"
+      },
+      {
+        "descripcion": "DOCUMENTACION",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17010476.PDF"
+      },
+      {
+        "descripcion": "DOCUMENTACION",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17010478.PDF"
+      },
+      {
+        "descripcion": "DOCUMENTACION",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17010481.PDF"
+      },
+      {
+        "descripcion": "DOCUMENTACION",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17010483.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Suministro",
+    "codigo": "CONT_SUMINISTRO/2023/1",
+    "descripcion": "SUMINISTRO DE 180 CASCOS DE INTERVENCIÓN LIGEROS PARA POLICÍA MUNICIPAL DE PAMPLONA.",
+    "licitadores": [
+      {
+        "dnilic": "B20793436",
+        "nombrelic": "SERVICIOS Y LOGISTICA DE RESCATE"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B20793436",
+        "nombreadj": "SERVICIOS Y LOGISTICA DE RESCATE"
+      }
+    ],
+    "implic": "52000.00",
+    "impofer": "",
+    "varialicofer": "",
+    "observacionesoferta": "",
+    "impadj": "51082.82",
+    "imppagos": "",
+    "plazoejec": "",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17074662.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17339522.PDF"
+      },
+      {
+        "descripcion": "ACTA PROPUESTA DE ADJUDICACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17376441.PDF"
+      }
+    ],
+    "proyectos": ""
+  },
+  {
+    "tipocontrato": "Suministro",
+    "codigo": "CONT_SUMINISTRO/2023/8",
+    "descripcion": "ESCENARIO PLAZA DE LOS FUEROS SAN FERMIN 2023",
+    "licitadores": [
+      {
+        "dnilic": "B61924791",
+        "nombrelic": "POWER BAND PRODUCTIONS SL"
+      }
+    ],
+    "adjudicatarios": [
+      {
+        "dniadj": "B61924791",
+        "nombreadj": "POWER BAND PRODUCTIONS SL"
+      }
+    ],
+    "implic": "32065.00",
+    "impofer": "26000.00",
+    "varialicofer": "-18.91",
+    "observacionesoferta": "",
+    "impadj": "31460.00",
+    "imppagos": "",
+    "plazoejec": "10",
+    "modificaciones": "",
+    "variaoferpago": "",
+    "varialicpago": "",
+    "porccaractersocial": "0",
+    "obligsubrogacion": "0",
+    "iddocccc": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17692948.PDF",
+    "actas": [
+      {
+        "descripcion": "FIRMA DE ACTA PERSONAL",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17760143.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA ECONÓMICA",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17781063.PDF"
+      },
+      {
+        "descripcion": "FIRMA DE ACTA PROPUESTA ADJUDICACIÓN",
+        "iddocacta": "https://opendata.pamplona.es/opendatadocs/P3120100G\\ayuntamiento\\contrataciones\\17933403.PDF"
+      }
+    ],
+    "proyectos": ""
+  }
+]

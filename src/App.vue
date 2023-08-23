@@ -1,30 +1,58 @@
-<script setup>
-import HelloWorld from './components/HelloWorld.vue'
-</script>
-
 <template>
-  <div>
-    <a href="https://vitejs.dev" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
-    </a>
-  </div>
-  <HelloWorld msg="Vite + Vue" />
+    <div id="app">
+        <h1>Open Data</h1>
+        <BarChart :contracts="displayedContracts"/>
+        <ContractTable :contracts="displayedContracts"  :totalContracts="totalContracts" />
+        <Pagination :currentPage="currentPage" :totalPages="totalPages" @page-change="changePage" />
+    </div>
 </template>
+  
+<script>
+import { ref, computed, onMounted } from 'vue';
+import ContractTable from './components/ContractTable.vue';
+import BarChart from './components/BarChart.vue';
+import Pagination from './components/Pagination.vue';
+import jsonData from './data/386.xml.json';
 
-<style scoped>
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.vue:hover {
-  filter: drop-shadow(0 0 2em #42b883aa);
-}
+const itemsPerPage = 10;
+
+export default {
+    components: {
+        ContractTable,
+        Pagination,
+        BarChart,
+    },
+    setup() {
+        const contracts = ref(jsonData);
+        const currentPage = ref(1);
+        const totalContracts = contracts.value.length;
+
+        const totalPages = computed(() => Math.ceil(contracts.value.length / itemsPerPage));
+
+        const displayedContracts = computed(() => {
+            const startIndex = (currentPage.value - 1) * itemsPerPage;
+            const endIndex = startIndex + itemsPerPage;
+            return contracts.value.slice(startIndex, endIndex);
+        });
+
+        const changePage = (newPage) => {
+            if (newPage >= 1 && newPage <= totalPages.value) {
+                currentPage.value = newPage;
+            }
+        };
+
+        return {
+            totalContracts,
+            displayedContracts,
+            currentPage,
+            totalPages,
+            changePage,
+        };
+    },
+};
+</script>
+  
+<style>
+/* Add your styles here */
 </style>
+  
