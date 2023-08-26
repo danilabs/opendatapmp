@@ -6,7 +6,7 @@
       <button @click="goToPage(currentPage - 1)" :disabled="currentPage === 1" class="btn btn-secondary me-2" aria-label="Previous Page">
         <i class="fas fa-angle-left text-white"></i>
       </button>
-      <span class="mx-3">Page {{ currentPage }} of {{ totalPages }}</span>
+      <span class="mx-3">Pagina {{ currentPage }} de {{ totalPages }}</span>
       <button @click="goToPage(currentPage + 1)" :disabled="currentPage === totalPages" class="btn btn-secondary me-2" aria-label="Next Page">
         <i class="fas fa-angle-right text-white"></i>
       </button>

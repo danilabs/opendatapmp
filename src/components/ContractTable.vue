@@ -1,42 +1,52 @@
 <template>
-  <p>Se han encontrado {{ totalContracts }} contratos</p>
-  <div class="container">
+  <div>
+    <p class="mb-3">Se han encontrado {{ numberContractsDisplayed }} contratos</p>
     <div class="table-responsive">
-      <table class="table table-striped table-hover">
-        <thead>
+      <table class="table table-bordered table-striped">
+        <thead class="bg-primary text-white">
           <tr>
-            <th scope="col">Codigo</th>
-            <th scope="col">Description</th>
-            <th scope="col">Licitador</th>
-            <th scope="col">Adjudicatario</th>
-            <th scope="col">Importe</th>
-            <th scope="col">PDF</th>
-            <!-- Add more headers as needed -->
+            <th>Codigo</th>
+            <th>Description</th>
+            <th>Licitador</th>
+            <th>Adjudicatario</th>
+            <th class="text-right">Importe Licitado</th>
+            <th class="text-right">Importe Adjudicado</th>
+            <th>Actas</th>
           </tr>
         </thead>
         <tbody>
           <tr v-for="(contract, index) in contracts" :key="index">
             <td>
-              <p>{{ contract.codigo }}</p>
+              <a :href="contract.iddocccc" target="_blank" :title="contract.descripcion">{{ contract.codigo }}</a>
             </td>
-            <td>
-              <p>{{ contract.descripcion }}</p>
-            </td>
+            <td>{{ contract.descripcion }}</td>
             <td v-if="contract.licitadores.length">
-              <p v-for="(licitadores, licIndex) in contract.licitadores" :key="licIndex">
-                {{ licitadores.dnilic }}
+              <p v-for="(licitador, licIndex) in contract.licitadores" :key="licIndex">
+                <router-link :to="'/dni/' + licitador.dnilic">{{ licitador.nombrelic }} ({{ licitador.dnilic }})</router-link>
               </p>
             </td>
+            <td v-else>-</td>
             <td v-if="contract.adjudicatarios.length">
               <p v-for="(adjudicatario, adjIndex) in contract.adjudicatarios" :key="adjIndex">
-                {{ adjudicatario.dniadj }}
+                <router-link :to="'/dni/' + adjudicatario.dniadj">{{ adjudicatario.nombreadj }} {{ adjudicatario.dniadj }})</router-link>
               </p>
             </td>
-            <td class="text-right table-success">{{ contract.implic | toCurrency }}</td>
-            <td v-if="contract.iddocccc">
-              <a :href="contract.iddocccc" target="_blank" :title="contract.descripcion">Ver PDF</a>
+            <td v-else>-</td>
+            <td v-if="contract.implic > 0">
+              <p class="text-right table-success">{{ contract.implic | $filters.toCurrency }}</p>
             </td>
-            <!-- Add more cells as needed -->
+            <td v-else>-</td>
+            <td v-if="contract.impadj > 0">
+              <p class="text-right table-success">{{ contract.impadj | $filters.toCurrency }}</p>
+            </td>
+            <td v-else>-</td>
+            
+            <td v-if="contract.actas.length">
+              <p v-for="(acta, actaIndex) in contract.actas" :key="actaIndex">
+                <ul><a :href="acta.iddocacta" target="_blank" :title="acta.descripcion">{{ acta.descripcion }}</a></ul>
+              </p>
+            </td>
+            <td v-else>-</td>
           </tr>
         </tbody>
       </table>
@@ -44,30 +54,21 @@
   </div>
 </template>
 
+
 <script>
 export default {
   props: {
     contracts: Array, // Passed from parent component
-    totalContracts: Number
+    numberContractsDisplayed: Number
   },
   computed: {
     filteredContracts() {
       return this.contracts.filter((contract) => "");
     },
-  },
-  filters: {
-    toCurrency(value) {
-      if (typeof value !== "number") {
-        return value;
-      }
-      var formatter = new Intl.NumberFormat('es-ES', {
-        style: 'currency',
-        currency: 'EUR'
-      });
-      return formatter.format(parseInt(value));
-    },
   }
 };
 </script>
 
-<style>/* Add your custom styles here if needed */</style>
+<style>
+/* Add your custom styles here if needed */
+</style>

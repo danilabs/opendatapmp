@@ -1,39 +1,20 @@
 <template>
-    <div class="dashboard">
-      <div class="sidebar">
-        <!-- Sidebar content here -->
-      </div>
-      <div class="main-content">
-          <h1 class="mt-4">Open Data Dashboard</h1>
-          <div class="row mt-4">
-            <div class="col-md-6">
-              <BarChart :contracts="filteredContracts" />
-            </div>
-            <div class="col-md-6">
-              <SearchBox @search="performSearch" />
-            </div>
-          </div>
-          <div class="row mt-4">
-            <div class="col-md-12">
-              <ContractTable :contracts="displayedContracts" :numberContractsDisplayed="numberContractsDisplayed" />
-            </div>
-          </div>
-          <div class="row mt-4">
-            <div class="col-md-12">
-              <Pagination :currentPage="currentPage" :totalPages="totalPages" @page-change="changePage" />
-            </div>
-          </div>
-        </div>
+    <div id="app" class="container">
+        <h1 class="mt-4">Open Data</h1>
+        <BarChart :contracts="filteredContracts" />
+        <SearchBox @search="performSearch" />
+        <ContractTable :contracts="displayedContracts" :numberContractsDisplayed="numberContractsDisplayed" />
+        <Pagination :currentPage="currentPage" :totalPages="totalPages" @page-change="changePage" />
     </div>
-  </template>
+</template>
   
 <script>
 import { ref, computed } from 'vue';
-import ContractTable from './components/ContractTable.vue';
-import BarChart from './components/BarChart.vue';
-import Pagination from './components/Pagination.vue';
-import SearchBox from './components/SearchBox.vue';
-import jsonData from './data/386.xml.json';
+import ContractTable from '../components/ContractTable.vue';
+import BarChart from '../components/BarChart.vue';
+import Pagination from '../components/Pagination.vue';
+import SearchBox from '../components/SearchBox.vue';
+import jsonData from '../data/386.xml.json';
 
 const itemsPerPage = 10;
 
@@ -107,23 +88,7 @@ export default {
 };
 </script>
   
-<style scoped>
-.dashboard {
-  display: flex;
-}
-
-/* Sidebar */
-.sidebar {
-  width: 10%; /* Adjust the width as needed */
-  background-color: #242424;
-  color: rgba(255, 255, 255, 0.87);
-  overflow-y: auto;
-}
-
-.main-content {
-  flex: 1;
-  padding: 20px;
-}
-
-/* Add any additional custom styles here */
+<style>
+/* Add your styles here */
 </style>
+  
