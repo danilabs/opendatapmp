@@ -1,16 +1,15 @@
 <template>
   <div>
-    <p class="mb-3">Se han encontrado {{ numberContractsDisplayed }} contratos</p>
     <div class="table-responsive">
       <table class="table table-bordered table-striped">
         <thead class="bg-primary text-white">
           <tr>
-            <th @click="sortContracts('codigo')">Codigo</th>
+            <th>Codigo</th>
             <th>Description</th>
             <th>Licitador</th>
             <th>Adjudicatario</th>
-            <th class="text-right" @click="sortContracts('implic')">Importe Licitado</th>
-            <th class="text-right" @click="sortContracts('impadj')">Importe Adjudicado</th>
+            <th class="text-right" >Importe Licitado</th>
+            <th class="text-right">Importe Adjudicado</th>
             <th>Actas</th>
           </tr>
         </thead>
@@ -73,29 +72,6 @@ export default {
     }
   },
   methods: {
-    sortContracts(column) {
-      if (this.sortBy === column) {
-        this.sortDescending = !this.sortDescending;
-      } else {
-        this.sortBy = column;
-        this.sortDescending = true;
-      }
-
-      this.filteredContracts.sort((a, b) => {
-        const aValue = this.sortBy === 'codigo' ? a.codigo :
-                       this.sortBy === 'implic' ? a.implic :
-                       this.sortBy === 'impadj' ? a.impadj : '';
-        const bValue = this.sortBy === 'codigo' ? b.codigo :
-                       this.sortBy === 'implic' ? b.implic :
-                       this.sortBy === 'impadj' ? b.impadj : '';
-
-        if (this.sortDescending) {
-          return bValue.localeCompare(aValue);
-        } else {
-          return aValue.localeCompare(bValue);
-        }
-      });
-    },
     toCurrency(value) {
       if (typeof value === 'string' && !isNaN(value)) {
         value = parseFloat(value);
