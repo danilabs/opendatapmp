@@ -2,16 +2,28 @@ import fs from 'fs';
 import path from 'path';
 import axios from 'axios';
 import xml2js from 'xml2js';
+import https from 'https'; // Import the 'https' module
+import crypto from 'crypto'; // Import the 'crypto' module
+
+// URL of the XML file
+// Define your list of URLs and their corresponding anyo values
+const xmlUrls = [
+    { anyo: '2023', folder: 'contratos', url: 'https://opendata.pamplona.es/abrirFichero.aspx?idFichero=386&idFormato=2&idioma=1&nifEntidad=P3120100G' },
+    { anyo: '2022', folder: 'contratos', url: 'https://opendata.pamplona.es/abrirFichero.aspx?idFichero=369&idFormato=2&idioma=1&nifEntidad=P3120100G' },
+    { anyo: '2021', folder: 'contratos', url: 'https://opendata.pamplona.es/abrirFichero.aspx?idFichero=352&idFormato=2&idioma=1&nifEntidad=P3120100G' },
+];
+
 
 const getFieldIfExists = (obj, field) => (obj && obj[field]) ? obj[field][0] : undefined;
 
-const parseXmlToJson = (contractElement) => {
+const parseContractsXML2JSON = (contractElement, anyo) => {
     const attributes = contractElement['$'];
     const getAttributeExists = (field, fieldName) => {
         return field ? field : `${fieldName} not found`;
     };
 
-    const contractData = {        
+    const contractData = {
+        anyo: anyo,
         tipocontrato: getAttributeExists(attributes['tipocontrato'], 'tipocontrato'), // Tipo de contrato
         codigo: getAttributeExists(attributes['codigo'], 'codigo'), // Codiog Expediente
         descripcion: getAttributeExists(attributes['descripcion'], 'descripcion'), // Descripcion del contrato
@@ -52,28 +64,37 @@ const parseXmlToJson = (contractElement) => {
     return contractData;
 };
 
-// URL of the XML file
-const xmlUrl = 'http://167.86.102.106/opendata/386.xml';
-const filename = path.basename(new URL(xmlUrl).pathname);
 
-// Fetch XML data from the URL using axios
-axios.get(xmlUrl)
-    .then(async (response) => {
-        const xmlData = response.data;
+const allowLegacyRenegotiationforNodeJsOptions = {
+    httpsAgent: new https.Agent({
+        // for self signed you could also add
+        // rejectUnauthorized: false,
+        // allow legacy server
+        secureOptions: crypto.constants.SSL_OP_LEGACY_SERVER_CONNECT,
+    }),
+};
 
-        // Parse XML data using xml2js
-        const parser = new xml2js.Parser();
-        const result = await parser.parseStringPromise(xmlData);
-        const contracts = result.contratos.contrato;
+// Handle the multiple URLs
+xmlUrls.forEach(({ anyo, folder, url }) => {
+    axios.get(url, allowLegacyRenegotiationforNodeJsOptions)
+        .then(async (response) => {
+            const xmlData = response.data;
 
-        // Convert each contract element to JSON format
-        const jsonObjects = contracts.map((contract) => parseXmlToJson(contract));
+            // Parse XML data using xml2js
+            const parser = new xml2js.Parser();
+            const result = await parser.parseStringPromise(xmlData);
+            if (folder == "contratos") {
+                const contracts = result.contratos.contrato;
+                const jsonObjects = contracts.map((contract) => parseContractsXML2JSON(contract, anyo));
 
-        // Save all JSON objects under the same filename "parsed_all.json"
-        const allJsonFileName = 'src/data/'+ filename + '.json';
-        fs.writeFileSync(allJsonFileName, JSON.stringify(jsonObjects, null, 2));
-        console.log('JSON objects saved:', jsonObjects.length);
-    })
-    .catch((error) => {
-        console.error('Error fetching XML data:', error);
-    });
+                // Save JSON objects under separate filenames based on "anyo"
+                const allJsonFileName = `../data/contratos/${anyo}.json`;
+                fs.writeFileSync(allJsonFileName, JSON.stringify(jsonObjects, null, 2));
+                console.log(`JSON objects for ${anyo} saved:`, jsonObjects.length);
+            }
+
+        })
+        .catch((error) => {
+            console.error(`Error fetching XML data for ${anyo}:`, error);
+        });
+});

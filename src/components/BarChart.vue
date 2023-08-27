@@ -5,8 +5,8 @@
 </template>
   
 <script>
-import { ref, onMounted } from 'vue';
-import { Chart } from 'chart.js/auto'; // Import only the necessary parts
+import { ref, onMounted, watch } from 'vue';
+import { Chart } from 'chart.js/auto';
 
 export default {
   props: {
@@ -16,25 +16,30 @@ export default {
     const barChart = ref(null);
 
     onMounted(() => {
-      // Create a bar chart using Chart.js
       if (barChart.value) {
         const ctx = barChart.value.getContext('2d');
 
-        // Extract unique dnilic values and corresponding max implic values
-        const dnilicValues = {};
+        const dniadj = {};
         props.contracts.forEach((contract) => {
-          const dnilic = contract.licitadores[0].dnilic;
-          const implic = parseFloat(contract.implic);
-          if (!dnilicValues[dnilic] || implic > dnilicValues[dnilic]) {
-            dnilicValues[dnilic] = implic;
+          const dniadjValue = contract.adjudicatarios[0].dniadj;
+          const impadj = parseFloat(contract.impadj);
+
+          if (dniadjValue && (isNaN(dniadj[dniadjValue]) || impadj > dniadj[dniadjValue])) {
+            dniadj[dniadjValue] = impadj;
           }
         });
 
-        const labels = Object.keys(dnilicValues);
-        const data = Object.values(dnilicValues);
+
+        // Sort the dniadj values based on max impadj in descending order
+        const sortedKeys = Object.keys(dniadj).sort(
+          (a, b) => dniadj[b] - dniadj[a]
+        );
+
+        const labels = sortedKeys;
+        const data = sortedKeys.map((key) => dniadj[key]);
 
         new Chart(ctx, {
-          type: 'bar',
+          type: 'bar', // Changed to horizontalBar
           data: {
             labels: labels,
             datasets: [
@@ -48,16 +53,17 @@ export default {
             ],
           },
           options: {
+            tooltips: {
+              mode: 'index',
+            },
             scales: {
               x: {
-                ticks: {
-                  autoSkip: false,
-                },
-              },
-              y: {
-                beginAtZero: true,
+                beginAtZero: false,
                 ticks: {
                   callback: function (value) {
+                    if (typeof value === 'string' && !isNaN(value)) {
+                      value = parseFloat(value);
+                    }
                     return value.toLocaleString('es-ES', {
                       style: 'currency',
                       currency: 'EUR',
@@ -67,25 +73,46 @@ export default {
                   },
                 },
               },
+              y: {
+                ticks: {
+                  autoSkip: true,
+                },
+              },
+            },
+            elements: {
+              bar: {
+                borderWidth: 2,
+              },
             },
             plugins: {
               legend: {
                 display: true,
                 position: 'top',
               },
+              title: {
+                display: true,
+                text: 'Horizontal Bar Chart', // Update the chart title
+              },
             },
+            indexAxis: 'y', // Use y-axis for index
+            responsive: true,
           },
         });
       }
     });
 
+
     return {
-      barChart
+      barChart,
     };
   },
 };
 </script>
   
-<style>
-/* Add your custom styles here if needed */
+<style scoped>
+.chart-container {
+  position: relative;
+  height: 400px;
+  max-width: 100%;
+}
 </style>

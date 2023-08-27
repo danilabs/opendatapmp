@@ -7,6 +7,9 @@ import router from './router.js';
 const app = createApp(App);
 app.config.globalProperties.$filters = {
   toCurrency(value) {
+    if (typeof value === 'string' && !isNaN(value)) {
+      value = parseFloat(value);
+    }
     return value.toLocaleString('es-ES', {
       style: 'currency',
       currency: 'EUR',
