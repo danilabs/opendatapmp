@@ -18,5 +18,5 @@ app.config.globalProperties.$filters = {
     });
   },
 };
-app.use.apply(router)
+app.use(router)
 app.mount('#app');

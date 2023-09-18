@@ -18,7 +18,7 @@
       <div class="col-md-12">
         <div class="btn-group me-2" role="group" aria-label="Sorting buttons">
           <button class="btn btn-secondary" @click="sortByImpadj">
-            <i class="fas fa-sort-amount-up"></i> Import Adjudicado
+            <i class="fas fa-sort-amount-up"></i> Importe Adjudicado
           </button>
           <button class="btn btn-secondary" @click="sortByImplic">
             <i class="fas fa-sort-amount-up"></i> Importe Licitado
@@ -67,7 +67,7 @@ export default {
     const yearUrlArray = [
       { year: '2023', url: 'http://167.86.102.106/opendata/contratos/2023.json' },
       { year: '2022', url: 'http://167.86.102.106/opendata/contratos/2022.json' },
-      { year: '2021', url: 'http://167.86.102.106/opendata/contratos/2021.json' },
+      //{ year: '2021', url: 'http://167.86.102.106/opendata/contratos/2021.json' }
       // Add more years and URLs as needed
     ];
 
