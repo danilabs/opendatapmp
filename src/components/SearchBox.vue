@@ -5,7 +5,7 @@
         class="form-control"
         v-model="searchQuery"
         @input="updateSearch"
-        placeholder="Search contracts..."
+        placeholder="Buscar por CIF o descripcion..."
       />
     </div>
   </template>

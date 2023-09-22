@@ -5,7 +5,7 @@
         <thead class="bg-primary text-white">
           <tr>
             <th>Codigo</th>
-            <th>Description</th>
+            <th>Descripcion</th>
             <th>Licitador</th>
             <th>Adjudicatario</th>
             <th class="text-right" >Importe Licitado</th>
@@ -21,14 +21,14 @@
             <td>{{ contract.descripcion }}</td>
             <td v-if="contract.licitadores.length > 0">
               <p v-for="(licitador, licIndex) in contract.licitadores" :key="licIndex">
-                <p v-if="licitador.dnilic.length > 0"><router-link :to="'/dni/' + licitador.dnilic">{{ licitador.nombrelic }} ({{ licitador.dnilic }})</router-link></p>
+                <p v-if="licitador.dnilic.length > 0"><router-link :to="'/cif/' + licitador.dnilic">{{ licitador.nombrelic }} ({{ licitador.dnilic }})</router-link></p>
                 <p v-else>-</p>
               </p>
             </td>
             <td v-else>-</td>
             <td v-if="contract.adjudicatarios.length > 0">
               <p v-for="(adjudicatario, adjIndex) in contract.adjudicatarios" :key="adjIndex">
-                <p v-if="adjudicatario.dniadj.length > 0"><router-link :to="'/dni/' + adjudicatario.dniadj">{{ adjudicatario.nombreadj }} ({{ adjudicatario.dniadj }})</router-link></p>
+                <p v-if="adjudicatario.dniadj.length > 0"><router-link :to="'/cif/' + adjudicatario.dniadj">{{ adjudicatario.nombreadj }} ({{ adjudicatario.dniadj }})</router-link></p>
                 <p v-else>-</p>
               </p>
             </td>
