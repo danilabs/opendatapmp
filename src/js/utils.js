@@ -8,9 +8,9 @@ import crypto from 'crypto'; // Import the 'crypto' module
 // URL of the XML file
 // Define your list of URLs and their corresponding anyo values
 const xmlUrls = [
-    { anyo: '2023', folder: 'contratos', url: 'https://opendata.pamplona.es/abrirFichero.aspx?idFichero=386&idFormato=2&idioma=1&nifEntidad=P3120100G' },
-    { anyo: '2022', folder: 'contratos', url: 'https://opendata.pamplona.es/abrirFichero.aspx?idFichero=369&idFormato=2&idioma=1&nifEntidad=P3120100G' },
-    { anyo: '2021', folder: 'contratos', url: 'https://opendata.pamplona.es/abrirFichero.aspx?idFichero=352&idFormato=2&idioma=1&nifEntidad=P3120100G' },
+    { anyo: '2023', folder: 'contratos', url: 'https://opendata.pamplona.es/opendatadocs/P3120100G/ayuntamiento/contrataciones/386.xml' },
+    { anyo: '2022', folder: 'contratos', url: 'https://opendata.pamplona.es/opendatadocs/P3120100G/ayuntamiento/contrataciones/369.xml' },
+    { anyo: '2021', folder: 'contratos', url: 'https://opendata.pamplona.es/opendatadocs/P3120100G/ayuntamiento/contrataciones/352.xml' },
 ];
 
 

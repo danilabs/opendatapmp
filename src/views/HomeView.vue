@@ -68,9 +68,9 @@
   
       const selectedYear = ref('2023'); // Default selected year
       const yearUrlArray = [
-        { year: '2023', url: 'http://167.86.102.106/opendata/contratos/2023.json' },
-        { year: '2022', url: 'http://167.86.102.106/opendata/contratos/2022.json' },
-        //{ year: '2021', url: 'http://167.86.102.106/opendata/contratos/2021.json' }
+        { year: '2023', url: 'https://raw.githubusercontent.com/danilabs/opendatapmp/refs/heads/main/src/data/contratos/2023.json' },
+        { year: '2022', url: 'https://raw.githubusercontent.com/danilabs/opendatapmp/refs/heads/main/src/data/contratos/2022.json' },
+        { year: '2021', url: 'https://raw.githubusercontent.com/danilabs/opendatapmp/refs/heads/main/src/data/contratos/2021.json' }
         // Add more years and URLs as needed
       ];
   
